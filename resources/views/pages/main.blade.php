@@ -49,10 +49,10 @@
         <div class="col l12"><p class="carier_3">ЛЕТ</p></div>
         </div>
       <div class="col l9 s5">
-        <p class="p_carier"><i class="fas fa-arrow-right f__r"></i>молодой изобретатель</p>
-        <p class="p_carier"><i class="fas fa-arrow-right f__r"></i>студент профильного ВУЗа или ССУЗа</p>
-        <p class="p_carier"><i class="fas fa-arrow-right f__r"></i>программист</p>
-        <p class="p_carier"><i class="fas fa-arrow-right f__r"></i>социальный предприниматель</p>
+        <p class="p_carier animated  fadeInLeftBig sl dl" id="el1"><i class="fas fa-arrow-right f__r"></i>молодой изобретатель</p>
+        <p class="p_carier animated  fadeInLeftBig sl dl1" id="el2"><i class="fas fa-arrow-right f__r"></i>студент профильного ВУЗа или ССУЗа</p>
+        <p class="p_carier animated  fadeInLeftBig sl dl2" id="el3"><i class="fas fa-arrow-right f__r"></i>программист</p>
+        <p class="p_carier animated fadeInLeftBig sl dl3" id="el4"><i class="fas fa-arrow-right f__r"></i>социальный предприниматель</p>
       </div>
     </div>
     <div class="col l3 right col_btn_carier s12">
@@ -112,32 +112,26 @@
       <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b1.png" class="bonus_img"></img>
         <p class="p_bonus">Лучшие тренеры</p>
-        <p class="pod_bonus">Лучшие эксперты из Москвы и никаких скучных лекций!</p>
         </div>
         <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b2.png" class="bonus_img"></img>
         <p class="p_bonus">Нетворкинг</p>
-        <p class="pod_bonus">Возможность прокачать свой проект или придумать классную IT-идею</p>
         </div>
         <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b3.png" class="bonus_img"></img>
         <p class="p_bonus">Работа с IT проектами</p>
-        <p class="pod_bonus">Победители конкурса IT- проектов получают ценные призы</p>
         </div>
         <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b4.png" class="bonus_img"></img>
         <p class="p_bonus">Мастер классы</p>
-        <p class="pod_bonus">Деловой нетворкинг</p>
         </div> 
         <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b5.png" class="bonus_img"></img>
         <p class="p_bonus">Презентационная сессия</p>
-        <p class="pod_bonus">Самые интересные сесси  </p>
         </div>
         <div class="col l2 s6 bonus_img_col">
         <img src="assets/img/b6.png" class="bonus_img"></img>
         <p class="p_bonus">Международные стажировки</p>
-        <p class="pod_bonus">Мы обеспечиваем 30 иногородних участников проживанием в отеле, трансфером по городу и питанием на время проведения IT-Start!</p>
         </div>
     </div>
     <div id="test2" class="col s12 tabs_1">
@@ -248,7 +242,7 @@
 <h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">РУКОВОДИТЕЛЬ ПРОГРАММЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items">
+    <div class="flex-wrapper w-dyn-items center">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Станислав Сахаров</h4>
@@ -268,7 +262,7 @@
 <h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items">
+    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Андрей Поскряков</h4>
@@ -295,7 +289,7 @@
 <h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">ОРГАНИЗАТОРЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items">
+    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>

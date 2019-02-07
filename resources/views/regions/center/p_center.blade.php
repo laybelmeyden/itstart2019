@@ -48,29 +48,29 @@
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
       <div class="col s12 center">
         <div class="col s12 m1"></div>
-        <div class="col s6 m2">
-          <div class="bounce">
-            Lorem Ipsum has been
+        <div class="col s12 m2">
+          <div class="bounce" style="font-size: 18px;">
+            <div class="pop">Лучшие эксперты из Москвы и никаких скучных лекций! </div>
             </div>
         </div>
-        <div class="col s6 m2">
-          <div class="bounce">
-            Lorem Ipsum has been
+        <div class="col s12 m2">
+          <div class="bounce" style="font-size: 16px; padding-top: 24px;">
+            <div class="pop">Возможность прокачать свой проект или придумать классную IT-идею</div>
             </div>
         </div>
-        <div class="col s6 m2">
-          <div class="bounce">
-            Lorem Ipsum has been
+        <div class="col s12 m2">
+          <div class="bounce" style="font-size: 16px; padding-top: 50px;">
+            <div class="pop">Победители конкурса IT- проектов получают ценные призы</div>
             </div>
         </div>
-        <div class="col s6 m2">
-          <div class="bounce">
-            Lorem Ipsum has been
+        <div class="col s12 m2">
+          <div class="bounce" style="font-size: 20px; padding-top: 60px;">
+            <div class="pop">Деловой нетворкинг</div>
             </div>
         </div>
-        <div class="col s6 m2">
+        <div class="col s12 m2">
           <div class="bounce">
-            Lorem Ipsum has been
+            <div class="pop">Мы обеспечиваем 30 иногородних участников бесплатным проживанием</div>
             </div>
         </div>
         <div class="col s12 m1"></div>

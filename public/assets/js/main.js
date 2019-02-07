@@ -72,5 +72,24 @@ document.getElementById('btn_news').addEventListener('click', function () {
   window.location.href = '/news';
 });
 setTimeout(function() {
-   document.getElementById('carier').style.display = 'block';
+  document.getElementById('carier').style.display = 'block';
 }, 6000);
+
+
+// const anime =  document.querySelector('#el1');
+// var animation = setInterval(function() {
+//   anime.classList.add('animated', 'fadeInLeftBig', 'sl')
+// }, 8000);
+// setTimeout(function() {
+//   clearInterval(animation);
+//   anime.classList.remove('animated', 'fadeInLeftBig', 'sl')
+// }, 14000);
+// if (setTimeout(function() {
+//     document.getElementById('el1').style.display = 'none';
+// }, 12000)){
+//     anime.classList.add('animated', 'fadeInLeftBig', 'sl')
+// }
+// else
+// {
+//     anime.classList.remove('animated', 'fadeInLeftBig', 'sl')
+// }

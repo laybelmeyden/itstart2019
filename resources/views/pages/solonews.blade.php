@@ -8,20 +8,18 @@
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="fas fa-bars"></i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="/#news" class="nav__item">Новости</a></li>
-          <li><a href="/#role" class="nav__item">Участники</a></li>
+          <li><a href="/#role" class="nav__item">Участникам</a></li>
           <li><a href="/#project" class="nav__item">О проекте</a></li>
-          <li><a href="/#speakers" class="nav__item">Спикеры</a></li>
           <li><a href="/#contacts" class="nav__item">Контакты</a></li>
-          <li class="item_reg"><a href="#maps" class="nav__item nav__item__reg nav__item__reg___1">Регистрация</a></li>
+          <li class="item_reg"><a href="/#maps" class="nav__item nav__item__reg nav__item__reg___1">Регистрация</a></li>
       </ul>
     </div>
   </nav>
 
     <ul class="sidenav" id="mobile-demo">
           <li><a href="/#news" class="nav__item">Новости</a></li>
-          <li><a href="/#role" class="nav__item">Участники</a></li>
+          <li><a href="/#role" class="nav__item">Участникам</a></li>
           <li><a href="/#project" class="nav__item">О проекте</a></li>
-          <li><a href="/#speakers" class="nav__item">Спикеры</a></li>
           <li><a href="/#contacts" class="nav__item">Контакты</a></li>
           <li><a href="/#maps" class="nav__item nav__item__reg">Регистрация</a></li>
     </ul>
