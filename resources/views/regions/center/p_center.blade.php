@@ -44,28 +44,38 @@
 </section>
 <div class="fon__solo">
 <section id="bonus">
-  <div class="container">
     <div class="row">
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
       <div class="col s12 center">
-        <div class="col s12 m4">
+        <div class="col s12 m1"></div>
+        <div class="col s6 m2">
           <div class="bounce">
-            <p class="bounce_span">Lorem Ipsum has been</p>
+            Lorem Ipsum has been
             </div>
         </div>
-        <div class="col s12 m4">
+        <div class="col s6 m2">
           <div class="bounce">
-            <p class="bounce_span">Lorem Ipsum has been</p>
+            Lorem Ipsum has been
             </div>
         </div>
-        <div class="col s12 m4">
+        <div class="col s6 m2">
           <div class="bounce">
-            <p class="bounce_span">Lorem Ipsum has been</p>
+            Lorem Ipsum has been
             </div>
         </div>
+        <div class="col s6 m2">
+          <div class="bounce">
+            Lorem Ipsum has been
+            </div>
+        </div>
+        <div class="col s6 m2">
+          <div class="bounce">
+            Lorem Ipsum has been
+            </div>
+        </div>
+        <div class="col s12 m1"></div>
       </div>
     </div>
-  </div>
 </section>
 <section id="about__1">
   <div class="container">
@@ -76,8 +86,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий. 
-В 2019 году программа реализуется за счет средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов, партнерской поддержки компании ПАО «МТС» и региональных представителей.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Глазов. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -212,7 +221,7 @@ vs@rusinnovations.com<br>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>
-                        <h4 class="heading-4 white-no-border">Успей зарегестрироваться!</h4>
+                        <h4 class="heading-4 white-no-border">Успей зарегистрироваться!</h4>
                         </div>
                         </div>
                         </div>
