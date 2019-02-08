@@ -33,9 +33,9 @@
           @foreach ( $trynews as $trynew)
               <div class="col l4 s12">
               <a href="/solonews{{ $trynew->id }}" class="news_link">
-              <div class="img_news"><img src="storage/{{ $trynew->n_img }}"></img></div>
-              <div class="news_date"><p class="ews__date">{{ $trynew->n_date }}</p></div>
-              <div class="news_title"><h1 class="news__title">{{ $trynew->n_title }}</h1></div>
+              <div class="img_news"><img src="storage/{{ $trynew->try_img }}"></img></div>
+              <div class="news_date"><p class="ews__date">{{ $trynew->try_date }}</p></div>
+              <div class="news_title"><h1 class="news__title">{{ $trynew->try_title }}</h1></div>
               </a>
               </div>
             @endforeach
