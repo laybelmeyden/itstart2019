@@ -30,12 +30,12 @@
   <div class="row">
     <h1 class="news_h1">НОВОСТИ</h1>
     <div class="col l12">
-          @foreach ( $mnews as $mnew)
+          @foreach ( $trynews as $trynew)
               <div class="col l4 s12">
-              <a href="/solonews{{ $mnew->id }}" class="news_link">
-              <div class="img_news"><img src="storage/{{ $mnew->n_img }}"></img></div>
-              <div class="news_date"><p class="news__date">{{ $mnew->n_date }}</p></div>
-              <div class="news_title"><h1 class="news__title">{{ $mnew->n_title }}</h1></div>
+              <a href="/solonews{{ $trynew->id }}" class="news_link">
+              <div class="img_news"><img src="storage/{{ $trynew->n_img }}"></img></div>
+              <div class="news_date"><p class="ews__date">{{ $trynew->n_date }}</p></div>
+              <div class="news_title"><h1 class="news__title">{{ $trynew->n_title }}</h1></div>
               </a>
               </div>
             @endforeach
