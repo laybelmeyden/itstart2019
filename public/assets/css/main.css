@@ -221,6 +221,13 @@ nav ul a:hover {
 .news__title:hover{
       color: #40c0cb;
 }
+.tbs{
+  color: white;
+  font-family: Nova;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 40px;
+}
 .prvBtn{
   position: absolute;
     top: 100px;
@@ -493,7 +500,7 @@ figcaption {
 
 }
 .call_center{
-  padding-top: 30px;
+  padding-top: 4px;
 }
 .button-3:hover {
   box-shadow: 5px 9px 40px 0 #d03c3c;
@@ -649,7 +656,7 @@ figcaption {
     border:3px solid white;
 }
 .h1_tabs{
-  padding-bottom: 40px;
+  padding-bottom: 10px;
   font-size: 40px;
   color: white;
   font-weight: 600;
@@ -3577,6 +3584,7 @@ ul > li {
   color: white !important;
   font-size:16px !important;
   font-weight: 300 !important;
+  text-align: left !important;
 }
 .footer {
     position: relative;
@@ -5152,7 +5160,7 @@ th[colspan="2"]{
 }
 .bounce {
     height: 185px;
-    width: 100%;
+    width: 185px;
     border-radius: 50%;
     border: 6px solid;
     font-family: Nova;
@@ -5165,9 +5173,28 @@ th[colspan="2"]{
     border-bottom-color: #d03c3c !important;
     padding-left: 10px;
     padding-right: 10px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+.bounce_1 {
+    height: 185px;
+    width: 185px;
+    border-radius: 50%;
+    border: 6px solid;
+    font-family: Nova;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: white;
+    padding-top: 42px;
+    border-right-color: #d03c3c !important;
+    border-bottom-color: #d03c3c !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 40px;
 }
 .bounce_span{
-      position: relative;
+    position: relative;
     top: 66px;
     padding-left: 20px;
     padding-right: 20px;
@@ -5177,26 +5204,9 @@ th[colspan="2"]{
     color: white;
     font-family: Nova;
 }
-@media screen and (max-width: 1315px){
-    .bounce {
-    height: auto !important;
-    min-height: 200px;
-    width: 100% !important;
-    border-radius: 0% !important;
-    border: 0 !important;
-    font-family: Nova;
-    text-align: center;
-    font-size: 16px !important;
-    font-weight: 600;
-    color: white;
-    padding-top: 20px !important;
-    border-right-color: none !important;
-    border-bottom-color: none !important;
-    padding-left: 0;
-    padding-right: 0;
-    background: white;
-    color: black;
-    padding:20px;
+@media screen and (max-width: 1200px){
+    .bounce_1 {
+    
 }
 }
 @media screen and (max-width: 1080px){
@@ -5213,6 +5223,11 @@ nav a.sidenav-trigger{
     color: black;
 }
 }
+@media screen and (max-width:800px){
+  .bounce, .bounce_1 {
+    margin-left: 50px !important;
+}
+}
 @media screen and (max-width: 992px) {
 #address {
     position: relative;
@@ -5223,30 +5238,13 @@ nav a.sidenav-trigger{
     background-size: auto;
     margin-bottom: 30px;
 }
+.bounce, .bounce_1 {
+    margin-left: 120px;
+}
 .maps_h1{
   font-size:20px !important;
 }
-.bounce {
-    height: auto !important;
-    min-height: 130px;
-    width: 100% !important;
-    border-radius: 0% !important;
-    border: 0 !important;
-    font-family: Nova;
-    text-align: center;
-    font-size: 16px !important;
-    font-weight: 600;
-    color: white;
-    padding-top: 20px !important;
-    border-right-color: none !important;
-    border-bottom-color: none !important;
-    padding-left: 0;
-    padding-right: 0;
-    background: white;
-    color: black;
-    padding: 20px;
-    margin-top: 20px;
-}
+
 .bonus_img_col{
   height: 330px;
   width:180px;
@@ -5275,7 +5273,7 @@ nav a.sidenav-trigger{
     margin-top: 10px;
 }
 .call_center {
-    padding-top: 30px !important;
+    padding-top: 4px !important;
 }
 .carier_btn {
     background-color: #f79f68;

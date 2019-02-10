@@ -47,33 +47,53 @@
     <div class="row">
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
       <div class="col s12 center">
-        <div class="col s12 m1"></div>
-        <div class="col s12 m2">
-          <div class="bounce" style="font-size: 18px;">
-            <div class="pop">Лучшие эксперты из Москвы и никаких скучных лекций! </div>
-            </div>
-        </div>
-        <div class="col s12 m2">
-          <div class="bounce" style="font-size: 16px; padding-top: 24px;">
-            <div class="pop">Возможность прокачать свой проект или придумать классную IT-идею</div>
-            </div>
-        </div>
-        <div class="col s12 m2">
-          <div class="bounce" style="font-size: 16px; padding-top: 50px;">
-            <div class="pop">Победители конкурса IT- проектов получают ценные призы</div>
-            </div>
-        </div>
-        <div class="col s12 m2">
-          <div class="bounce" style="font-size: 20px; padding-top: 60px;">
-            <div class="pop">Деловой нетворкинг</div>
-            </div>
-        </div>
-        <div class="col s12 m2">
-          <div class="bounce">
-            <div class="pop">Мы обеспечиваем 30 иногородних участников бесплатным проживанием</div>
-            </div>
-        </div>
-        <div class="col s12 m1"></div>
+    <div class="col s12 m6 l3">
+      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <div class="pop">Лучшие трекеры</div>
+      </div>
+    </div>
+    <div class="col s12 m6 l3">
+      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <div class="pop">Нетворкинг</div>
+      </div>
+    </div>
+    <div class="col s12 m6 l3">
+      <div class="bounce" style="font-size: 18px; padding-top: 64px;">
+        <div class="pop">Международные стажировки</div>
+      </div>
+    </div>
+    <div class="col s12 m6 l3">
+      <div class="bounce" style="font-size: 18px; padding-top: 53px;">
+        <div class="pop">Ценные призы и подарки для победителей </div>
+      </div>
+    </div>
+    <div class="col s12 m12 l1"></div>
+     <div class="col s12 m6 l2">
+      <div class="bounce_1" style="font-size: 18px; padding-top: 72px;">
+        <div class="pop">Проживание для иногородних</div>
+      </div>
+    </div>
+    <div class="col s12 m6 l2">
+      <div class="bounce_1" style="font-size: 18px; padding-top: 54px;">
+        <div class="pop">Аудит технологических проектов </div>
+      </div>
+    </div>
+    <div class="col s12 m6 l2">
+      <div class="bounce_1" style="font-size: 18px; padding-top: 46px;">
+        <div class="pop">Инструменты для развития социальных проектов </div>
+      </div>
+    </div>
+    <div class="col s12 m6 l2">
+      <div class="bounce_1" style="font-size: 15px; padding-top: 52px;">
+        <div class="pop">Подготовка заявок на получение проектного финансирования </div>
+      </div>
+    </div>
+    <div class="col s12 m6 l2">
+      <div class="bounce_1" style="font-size: 18px; padding-top: 50px;">
+        <div class="pop">Стажировки в подразделениях компании МТС</div>
+      </div>
+    </div>
+    <div class="col s12 m12 l1"></div>
       </div>
     </div>
 </section>
@@ -141,44 +161,70 @@ vs@rusinnovations.com<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">НАШИ СПИКЕРЫ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">РУКОВОДИТЕЛЬ ПРОГРАММЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items">
+    <div class="flex-wrapper w-dyn-items center">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Станислав Сахаров</h4>
       <p class="paragraph">Руководитель программы <br> IT-Start</p>
     </div>
-      <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 80px;">
+      <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    </div>
+</div>
+</div>
+</div>
+</section>
+<section id="speakers">
+<div class="content-section">
+<div class="content-wrapper w-container">
+<div class="header-centered">
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
+</div>
+<div data-ix="move-up-on-scroll" class="w-dyn-list">
+    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Андрей Поскряков</h4>
       <p class="paragraph">Специалист по клиентоориентированности</p>
     </div>
-      <img src="assets/img/sp2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 80px;">
+      <img src="assets/img/sp2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Матвей Бебенин</h4>
       <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
     </div>
-      <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 80px;">
+      <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    </div>
+</div>
+</div>
+</div>
+</section>
+<section id="speakers">
+<div class="content-section">
+<div class="content-wrapper w-container">
+<div class="header-centered">
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап школ</h2>
+</div>
+<div data-ix="move-up-on-scroll" class="w-dyn-list">
+    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 80px;">
+      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4 ">Сергеев Никита</h4>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
-      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 80px;">
+      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -200,6 +246,9 @@ vs@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>
