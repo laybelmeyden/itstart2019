@@ -227,7 +227,7 @@
      @foreach ($data as $tabimgs)
      <?php $count = 0; ?>
 		@foreach (json_decode($tabimgs->img_tab, true) as $img_tabs)
-		<?php if($count == 4) break; ?>
+		<?php if($count == 500) break; ?>
 		<div class="col l4">
 		<img src="{{ URL::to('/storage/'.$img_tabs)}}" data-full="{{ URL::to('/storage/'.$img_tabs)}}" class="m-p-g__thumbs-img" />
 		</div>
