@@ -66,7 +66,7 @@ $('.prvBtn').click(function() {
 });
 
 document.getElementById('btn_car').addEventListener('click', function () {
-  window.location.href = '/';
+  window.location.href = '#maps';
 });
 document.getElementById('btn_news').addEventListener('click', function () {
   window.location.href = '/news';
@@ -75,6 +75,11 @@ setTimeout(function() {
   document.getElementById('carier').style.display = 'block';
 }, 6000);
 
+const elem = document.querySelector('.m-p-g');
+
+document.addEventListener('DOMContentLoaded', function() {
+const gallery = new MaterialPhotoGallery(elem);
+});
 
 // const anime =  document.querySelector('#el1');
 // var animation = setInterval(function() {

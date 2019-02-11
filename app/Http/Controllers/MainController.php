@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Trynews;
+use App\Tabimg;
 
 class MainController extends Controller
 {
@@ -13,7 +14,8 @@ class MainController extends Controller
         $trynews = Trynews::latest()
         ->limit(9)
     	->get();
-        return view('pages.main', compact('trynews'));
+    	$data = Tabimg::latest()->get();
+        return view('pages.main', compact('trynews', 'tabimgs', 'data'));
     }
     public function news()
     {
@@ -45,9 +47,13 @@ class MainController extends Controller
     {
         return view('regions.center.p_center');
     }
-    public function dvos()
+    public function dvos1()
     {
-        return view('regions.daliniyvostok.dvos');
+        return view('regions.daliniyvostok.dvos1');
+    }
+    public function dvos2()
+    {
+        return view('regions.daliniyvostok.dvos2');
     }
     public function privol()
     {

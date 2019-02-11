@@ -27,7 +27,7 @@
 <section id="header">
     <div class="down_paralax">
     <div class=" container center">
-    <img src="assets/img/Banner_na_glavnuyu.png" class="banner_main">
+    <img src="assets/img/Banner.png" class="banner_main">
   </div>
   <div class="down_paralax_part">
     <div class="container center">
@@ -111,50 +111,41 @@
 <div class="row">
   <div id="test1" class="col s12 tabs_1 center">
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <img src="assets/img/Trekery.png" class="ojid__item"></img>
         <div class="pop">Лучшие трекеры</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <img src="assets/img/Netvorking.png" class="ojid__item"></img>
         <div class="pop">Нетворкинг</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 64px;">
+      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Международные стажировки</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 53px;">
+      <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
-      </div>
     </div>
     <div class="col s12 m12 l1"></div>
      <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 72px;">
+       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
         <div class="pop">Проживание для иногородних</div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 54px;">
+      <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 46px;">
+      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 15px; padding-top: 52px;">
+      <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 50px;">
+      <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
-      </div>
     </div>
     <div class="col s12 m12 l1"></div>
     </div>
@@ -228,8 +219,30 @@
                         </div>
 </section>
     </div>
+    <div id="test4" class="col s12 tabs_1">
+      <div class="m-p-g">
+	<div class="m-p-g__thumbs" data-google-image-layout data-max-height="350">
+	  @if(!empty($data) && $data->count())
+
+     @foreach ($data as $tabimgs)
+     <?php $count = 0; ?>
+		@foreach (json_decode($tabimgs->img_tab, true) as $img_tabs)
+		<?php if($count == 4) break; ?>
+		<div class="col l4">
+		<img src="{{ URL::to('/storage/'.$img_tabs)}}" data-full="{{ URL::to('/storage/'.$img_tabs)}}" class="m-p-g__thumbs-img" />
+		</div>
+		<?php $count++; ?>
+		@endforeach
+		@endforeach
+    @else
+		<div class="col l12 center"> Нет фото</div>
+		@endif
+	</div>
+
+	<div class="m-p-g__fullscreen"></div>
+</div>
+    </div>
     <div id="test3" class="col s12 tabs_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
-    <div id="test4" class="col s12 tabs_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
 </div>
 </section>
 <section id="project">
@@ -258,6 +271,18 @@
   <p class="maps_p">выбери свой округ на карте и зарегистрируйся</p>
   </div>
   <div id="russian-map"></div>
+  <div id="dali">
+    <div class="row">
+      <span class="close__maps__item">×</span>
+      <p class="maps__text__item">Выберите Ваш город в Дальневосточном федеральном округе</p>
+      <div class="col s12 l6"><div class="maps_modal_confirm_item">
+        <a href="/daliniyvostok1" class="href__maps__item">Владивосток</a>
+      </div></div>
+      <div class="col s12 l6"><div class="maps_modal_confirm_item">
+        <a href="/daliniyvostok2" class="href__maps__item">Улан Удэ</a>
+      </div></div>
+    </div>
+  </div>
 </section>
 <section id="speakers">
 <div class="content-section">
@@ -300,6 +325,34 @@
       <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Шариф Кармо</h4>
+      <p class="paragraph">Сооснователь и операционный директор GetShop.TV</p>
+    </div>
+      <img src="assets/img/WhatsApp_Image_2019-02-07_at_17_50_55.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Анна Брусницына</h4>
+      <p class="paragraph">Специалист по социальному предпринимательству</p>
+    </div>
+      <img src="assets/img/c6kLtSyu5Ns.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Кудрин Антон</h4>
+      <p class="paragraph">Старший менеджер Академии PwC</p>
+    </div>
+      <img src="assets/img/Anton-e1472741963931.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Артем Крицын</h4>
+      <p class="paragraph">менеджер проектов АО "РВК"</p>
+    </div>
+      <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -445,35 +498,35 @@
                         },
                         onMouseClick: function(event) {
                           if (this.region.name == "Сибирский федеральный округ") {
-                            // document.location.href = "/sibirkiy";
-                            document.location.href = "/center";
+                            document.location.href = "/sibirkiy";
                           }
                           if (this.region.name == "Уральский федеральный округ") {
-                            // document.location.href = "/uraliskiy";
-                            document.location.href = "/center";
+                            document.location.href = "/uraliskiy";
                           }
                           if (this.region.name == "Северо-Западный федеральный округ") {
-                            // document.location.href = "/severo-zapad";
-                            document.location.href = "/center";
+                            document.location.href = "/severo-zapad";
                           }
                           if (this.region.name == "Центральный федеральный округ") {
                             document.location.href = "/center";
                           }
                           if (this.region.name == "Приволжский федеральный округ") {
-                            // document.location.href = "/privoljsk";
-                            document.location.href = "/center";
+                            document.location.href = "/privoljsk";
                           }
                           if (this.region.name == "Южный федеральный округ") {
-                            // document.location.href = "/yg";
-                            document.location.href = "/center";
+                            document.location.href = "/yg";
                           }
                           if (this.region.name == "Северо-Кавказский федеральный округ") {
                             // document.location.href = "/severo-kavkaz";
-                            document.location.href = "/center";
+                            
                           }
                           if (this.region.name == "Дальневосточный федеральный округ") {
-                            // document.location.href = "/daliniyvostok";
-                            document.location.href = "/center";
+                            
+                              const a_modal = document.querySelector("#dali").style.display = "block";
+                              const a_modal_close = document.querySelector(".close__maps__item");
+                              a_modal_close.onclick = function() {
+                              const a_modal = document.querySelector("#dali").style.display = "none";
+                              }
+                              
                           }
                         }
                     }, data.regions);

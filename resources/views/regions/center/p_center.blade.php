@@ -7,16 +7,16 @@
       <a href="/" class="brand-logo nav_solo_logo"><img src="assets/img/Iogo.png" width="130.5" alt=""></a>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="fas fa-bars"></i></a>
       <ul id="nav-mobile" class="hide-on-med-and-down">
-          <li class="nav_solo"><a href="#about" class="nav__item nav__item__1">О ПРОЕКТЕ</a></li>
-          <li class="nav_solo__1"><a href="#contacts" class="nav__item nav__item__1">КОНТАКТЫ</a></li>
+          <li class="nav_solo"><a href="#about__1" class="nav__item nav__item__1">О ПРОЕКТЕ</a></li>
+          <li class="nav_solo__1"><a href="#mesto" class="nav__item nav__item__1">КОНТАКТЫ</a></li>
           <li class="nav_solo__1"><a href="#register" class="nav__item nav__item__reg nav__item__1 nav__item__reg__1">РЕГИСТРАЦИЯ</a></li>
       </ul>
     </div>
   </nav>
 
     <ul class="sidenav" id="mobile-demo">
-          <li><a href="#about" class="nav__item">О проекте</a></li>
-          <li><a href="#contacts" class="nav__item">Контакты</a></li>
+          <li><a href="#about__1" class="nav__item">О проекте</a></li>
+          <li><a href="#mesto" class="nav__item">Контакты</a></li>
           <li><a href="#register" class="nav__item nav__item__reg">Регистрация</a></li>
     </ul>
 </section>
@@ -26,7 +26,7 @@
     <div class="container">
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Центрального федерального округа <br>РЯЗАНЬ 11-13 марта 2019<br> Центральный ФО</p>
+      <p class="solo__p">Центральный федеральный округ <br>Рязань 29-31 мая 2019<br> Акционерное общество «Корпорация развития Рязанской области»</p>
      </div>
     </div>
     </div>
@@ -48,50 +48,41 @@
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
       <div class="col s12 center">
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <img src="assets/img/Trekery.png" class="ojid__item"></img>
         <div class="pop">Лучшие трекеры</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 72px;">
+        <img src="assets/img/Netvorking.png" class="ojid__item"></img>
         <div class="pop">Нетворкинг</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 64px;">
+      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Международные стажировки</div>
-      </div>
     </div>
     <div class="col s12 m6 l3">
-      <div class="bounce" style="font-size: 18px; padding-top: 53px;">
+      <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
-      </div>
     </div>
     <div class="col s12 m12 l1"></div>
      <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 72px;">
+       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
         <div class="pop">Проживание для иногородних</div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 54px;">
+      <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 46px;">
+      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 15px; padding-top: 52px;">
+      <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
-      </div>
     </div>
     <div class="col s12 m6 l2">
-      <div class="bounce_1" style="font-size: 18px; padding-top: 50px;">
+      <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
-      </div>
     </div>
     <div class="col s12 m12 l1"></div>
       </div>
@@ -157,6 +148,7 @@ vs@rusinnovations.com<br>
     </div>
   </div>
 </section>
+
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
@@ -198,6 +190,34 @@ vs@rusinnovations.com<br>
       <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Шариф Кармо</h4>
+      <p class="paragraph">Сооснователь и операционный директор GetShop.TV</p>
+    </div>
+      <img src="assets/img/WhatsApp_Image_2019-02-07_at_17_50_55.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Анна Брусницына</h4>
+      <p class="paragraph">Специалист по социальному предпринимательству</p>
+    </div>
+      <img src="assets/img/c6kLtSyu5Ns.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Кудрин Антон</h4>
+      <p class="paragraph">Старший менеджер Академии PwC</p>
+    </div>
+      <img src="assets/img/Anton-e1472741963931.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Артем Крицын</h4>
+      <p class="paragraph">менеджер проектов АО "РВК"</p>
+    </div>
+      <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -266,7 +286,7 @@ vs@rusinnovations.com<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">с 1 марта по 30 мая, 2019</h4>
+                      <h4 class="heading-4 white-no-border"> 29-31 мая, 2019</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

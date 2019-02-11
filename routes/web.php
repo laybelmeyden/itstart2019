@@ -20,7 +20,8 @@ Route::post('/footerform', 'MainController@footerform');
 
 // regions
 Route::get('/center', 'MainController@p_center')->name('center');
-Route::get('/daliniyvostok', 'MainController@dvos')->name('dvos');
+Route::get('/daliniyvostok1', 'MainController@dvos1')->name('dvos1');
+Route::get('/daliniyvostok2', 'MainController@dvos2')->name('dvos2');
 Route::get('/privoljsk', 'MainController@privol')->name('privol');
 Route::get('/severo-zapad', 'MainController@sever')->name('sever');
 Route::get('/severo-kavkaz', 'MainController@sibir')->name('sibir');
