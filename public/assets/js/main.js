@@ -34,19 +34,19 @@ var span = document.getElementsByClassName("close")[0];
 
 btn.onclick = function() {
     modal.style.display = "block";
-}
+};
 
 
 span.onclick = function() {
     modal.style.display = "none";
-}
+};
 
 
 window.onclick = function(event) {
     if (event.target == modal) {
         modal.style.display = "none";
     }
-}
+};
 
 (function($) {
     $(document).ready(function() {
@@ -74,12 +74,6 @@ document.getElementById('btn_news').addEventListener('click', function () {
 setTimeout(function() {
   document.getElementById('carier').style.display = 'block';
 }, 6000);
-
-const elem = document.querySelector('.m-p-g');
-
-document.addEventListener('DOMContentLoaded', function() {
-const gallery = new MaterialPhotoGallery(elem);
-});
 
 // const anime =  document.querySelector('#el1');
 // var animation = setInterval(function() {

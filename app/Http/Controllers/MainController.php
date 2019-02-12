@@ -41,6 +41,17 @@ class MainController extends Controller
      });
       return back();
     }
+    public function photoall()
+    {
+        $data = Tabimg::latest()->get();
+        
+        return view('pages.photo', compact('tabimgs', 'data'));
+    }
+    
+    public function videoall()
+    {
+        return view('pages.video');
+    }
     
     // regions
     public function p_center()

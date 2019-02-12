@@ -136,12 +136,12 @@
         <div class="pop">Аудит технологических проектов </div>
     </div>
     <div class="col s12 m6 l2">
-      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
-        <div class="pop">Инструменты для развития социальных проектов </div>
-    </div>
-    <div class="col s12 m6 l2">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
+    </div>
+    <div class="col s12 m6 l2">
+      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
+        <div class="pop">Инструменты для развития социальных проектов </div>
     </div>
     <div class="col s12 m6 l2">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
@@ -220,27 +220,24 @@
 </section>
     </div>
     <div id="test4" class="col s12 tabs_1">
-      <div class="m-p-g">
-	<div class="m-p-g__thumbs" data-google-image-layout data-max-height="350">
-	  @if(!empty($data) && $data->count())
-
-     @foreach ($data as $tabimgs)
-     <?php $count = 0; ?>
-		@foreach (json_decode($tabimgs->img_tab, true) as $img_tabs)
-		<?php if($count == 500) break; ?>
-		<div class="col l4">
-		<img src="{{ URL::to('/storage/'.$img_tabs)}}" data-full="{{ URL::to('/storage/'.$img_tabs)}}" class="m-p-g__thumbs-img" />
-		</div>
-		<?php $count++; ?>
-		@endforeach
-		@endforeach
-    @else
-		<div class="col l12 center"> Нет фото</div>
-		@endif
-	</div>
-
-	<div class="m-p-g__fullscreen"></div>
-</div>
+      <a href="/photoall"><div class="col l12">
+        <div class="col l4"><img src="assets/img/D1d29UfI6H0gfCs9U8YC.jpg" class="responsive-img"></img></div>
+        <div class="col l4"><img src="assets/img/DqwXk9bbUDb8IrwDk1OX.png" class="responsive-img"></img></div>
+        <div class="col l4"><img src="assets/img/I3WtVGcuilIdfHxsaoX3.jpg" class="responsive-img"></img></div>
+      </div>
+      <div class="col l2"></div>
+      <div class="col l8 s12 pht_btn_item"><a href="/photoall" class="button-3 w-button">Все фото</a></div>
+      <div class="col l2"></div>
+      </a>
+      <div class="col l12"></div>
+      <a href="/photoall"><div class="col l12">
+        <div class="col l12 center"><iframe class="propert" src="https://www.youtube.com/embed/lhALjJCVirM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      </div>
+      <div class="col l2"></div>
+      <div class="col l8 s12 pht_btn_item"><a href="/videoall" class="button-3 w-button">Все видео</a></div>
+      <div class="col l2"></div>
+      </a>
+      <div class="col l12"></div>
     </div>
     <div id="test3" class="col s12 tabs_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
 </div>
@@ -363,7 +360,7 @@
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап школ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап-школ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
@@ -452,24 +449,26 @@
 
 <section class="footer">
     <div data-ix="move-up-on-scroll" class="cta-bottom">
-              <div class="content-wrapper w-container">
-                <div class="cta-box">
-                  <div data-ix="move-up-on-load-2" class="cta-bottom-flex">
-                    <i class="fas fa-map-marked-alt marker_f"></i>
-                    <h4 class="heading-4 white-no-border">8 округов</h4>
-                    </div>
-                    <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
-                      <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">с 29 марта по 31 мая, 2019</h4>
-                      </div>
-                      <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
-                        <i class="far fa-user marker_f"></i>
-                        <h4 class="heading-4 white-no-border">Успей зарегистрироваться!</h4>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
-                        </div>
+    <div class="content-wrapper w-container">
+    <div class="cta-box">
+    <div data-ix="move-up-on-load-2" class="cta-bottom-flex">
+    <i class="fas fa-map-marked-alt marker_f"></i>
+    <h4 class="heading-4 white-no-border">7 округов</h4>
+    </div>
+    <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
+    <i class="far fa-calendar-alt marker_f"></i>
+    <h4 class="heading-4 white-no-border">с 29 марта по 31 мая, 2019</h4>
+    </div>
+    <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
+    <i class="far fa-user marker_f"></i>
+    <h4 class="heading-4 white-no-border">Успей зарегистрироваться!</h4>
+    </div>
+    </div>
+    <div class="col l12 center white-text" style="padding:30px;">Наши соц. сети</div>
+    <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><img src="assets/img/vk2.png" style="width: 30px;"></img></a></div>
+    </div>
+    </div>
+    </div>
 </section>
 <script type="text/javascript">
   window.onload = function() {

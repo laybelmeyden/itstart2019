@@ -5217,11 +5217,29 @@ th[colspan="2"]{
 }
 .m-p-g__thumbs-img.layout-completed {
   opacity: 1;
+}
+.photos{
+     width: 300px;
+    height: 150px;
+    overflow: hidden;
+}
+.propert{
   width: 100%;
-  height: 250px;
+  height: 576px;
+}
+.item__img{
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    height: auto !important;
+    padding: 10px;
 }
 .m-p-g__thumbs-img.hide {
   opacity: 0;
+}
+.pht_btn_item{
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 .m-p-g__thumbs-img:hover {
   -webkit-filter: brightness(110%);
@@ -5450,6 +5468,9 @@ nav a.sidenav-trigger{
 }
 }
 @media screen and (max-width: 992px) {
+.propert{
+  height: 300px;
+}
 #address {
     position: relative;
     width: 100%;

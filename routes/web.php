@@ -13,6 +13,8 @@
 
 Route::get('/', 'MainController@main')->name('main');
 Route::get('/news', 'MainController@news')->name('news');
+Route::get('/photoall', 'MainController@photoall')->name('photoall');
+Route::get('/videoall', 'MainController@videoall')->name('videoall');
 Route::get('/solonews{solo}', 'MainController@solonews')->name('solonews');
 
 

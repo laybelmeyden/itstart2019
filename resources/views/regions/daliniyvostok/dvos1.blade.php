@@ -26,7 +26,7 @@
     <div class="container">
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Дальневосточный федеральный округ <br>Владивосток 5-7 апреля 2019<br>Дальневосточный федеральный университет (ДВФУ)</p>
+      <p class="solo__p">Дальневосточный федеральный округ <br>Владивосток 5-7 апреля 2019<br></p>
      </div>
     </div>
     </div>
@@ -97,7 +97,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Глазов. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Владивосток. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -141,7 +141,7 @@ vs@rusinnovations.com<br>
         </div>
         <div class="col s12 m8 line__red ln__2">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A762688ec59991fb5e3f623c146dbf9746d3880a40c923e4c35c1fd8f56ae85e3&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?ll=131.885727%2C43.119221&mode=search&oid=1728401257&ol=biz&poi%5Bpoint%5D=61.333344%2C55.188230&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D87368994149&pt=39.03083333%2C45.01944444&sll=131.885727%2C43.119221&source=entity_search&sspn=0.009828%2C0.003969&text=Дальневосточный%20федеральный%20университет%20%28ДВФУ%29&z=17&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -228,7 +228,7 @@ vs@rusinnovations.com<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап школ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Куратор стартап-школ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
@@ -238,13 +238,6 @@ vs@rusinnovations.com<br>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4 ">Сергеев Никита</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
-    </div>
-      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -282,7 +275,7 @@ vs@rusinnovations.com<br>
                 <div class="cta-box">
                   <div data-ix="move-up-on-load-2" class="cta-bottom-flex">
                     <i class="fas fa-map-marked-alt marker_f"></i>
-                    <h4 class="heading-4 white-no-border">8 округов</h4>
+                    <h4 class="heading-4 white-no-border">ДФО</h4>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>

@@ -26,7 +26,7 @@
     <div class="container">
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Северо-Западный федеральный округ <br>Архангельск 29-31 марта 2019<br> Федеральное государственное автономное образовательное учреждение высшего образования «Северный (Арктический) федеральный университет имени М.В. Ломоносова»</p>
+      <p class="solo__p">Северо-Западный федеральный округ <br>Архангельск 29-31 марта 2019<br></p>
      </div>
     </div>
     </div>
@@ -56,35 +56,25 @@
         <div class="pop">Нетворкинг</div>
     </div>
     <div class="col s12 m6 l3">
-      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
-        <div class="pop">Международные стажировки</div>
-    </div>
-    <div class="col s12 m6 l3">
       <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
     </div>
-    <div class="col s12 m12 l1"></div>
-     <div class="col s12 m6 l2">
-       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
-        <div class="pop">Проживание для иногородних</div>
-    </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
-    <div class="col s12 m12 l1"></div>
       </div>
     </div>
 </section>
@@ -97,7 +87,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Глазов. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Архангельск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -228,7 +218,7 @@ vs@rusinnovations.com<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап школ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Куратор стартап-школ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
@@ -238,13 +228,6 @@ vs@rusinnovations.com<br>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4 ">Сергеев Никита</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
-    </div>
-      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -282,7 +265,7 @@ vs@rusinnovations.com<br>
                 <div class="cta-box">
                   <div data-ix="move-up-on-load-2" class="cta-bottom-flex">
                     <i class="fas fa-map-marked-alt marker_f"></i>
-                    <h4 class="heading-4 white-no-border">8 округов</h4>
+                    <h4 class="heading-4 white-no-border">СЗФО</h4>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
