@@ -3867,6 +3867,7 @@ p{
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
     max-height: 90% !important;
+    height: auto;
 }
 .btn_form{
   background:#d03c3c;
@@ -5467,9 +5468,13 @@ nav a.sidenav-trigger{
     margin-left: 50px !important;
 }
 }
+
 @media screen and (max-width: 992px) {
 .propert{
   height: 300px;
+}
+.img__item__992{
+  display: none;
 }
 #address {
     position: relative;
@@ -5682,5 +5687,8 @@ h1 {
 .ser_1, .ser_2, .ser_3, .ser_4{
   border:3px solid white !important;
   border-radius: 0px !important;
+}
+.item__text__992{
+  color: #169e9b !important;
 }
 }

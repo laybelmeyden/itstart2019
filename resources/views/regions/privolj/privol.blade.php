@@ -23,12 +23,10 @@
 <section>
   <div class="parallax-container para_solo_plo">
       <div class="parallax"><img src="assets/img/Tolyatti.png"></div>
-    <div class="container">
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
       <p class="solo__p">Приволжский федеральный округ <br>Тольятти 26-28 апреля 2019<br></p>
      </div>
-    </div>
     </div>
 </section>
 <section class="rega">
@@ -102,7 +100,6 @@
       </div>
       <div class="col s3 center"></div>
       <div class="col s12 m6 center">
-        <a class="link-button" href="https://vk.com/doc50857215_484294399?hash=c564e2ebf446865475&dl=9ae04cd1fe1d21480a">СКАЧАТЬ ПРОГРАММУ</a>
       </div>
       <div class="col s3 center"></div>
     </div>

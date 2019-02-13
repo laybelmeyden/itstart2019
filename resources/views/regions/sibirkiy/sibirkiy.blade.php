@@ -23,12 +23,10 @@
 <section>
   <div class="parallax-container para_solo_plo">
       <div class="parallax"><img src="assets/img/Novosibirsk.png"></div>
-    <div class="container">
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
       <p class="solo__p">Сибирский федеральный округ <br>Новосибирск 12-14 апреля 2019<br></p>
      </div>
-    </div>
     </div>
 </section>
 <section class="rega">
@@ -102,7 +100,6 @@
       </div>
       <div class="col s3 center"></div>
       <div class="col s12 m6 center">
-        <a class="link-button" href="https://vk.com/doc50857215_484294399?hash=c564e2ebf446865475&dl=9ae04cd1fe1d21480a">СКАЧАТЬ ПРОГРАММУ</a>
       </div>
       <div class="col s3 center"></div>
     </div>
@@ -132,9 +129,8 @@
           <div class="col s12 m4 line__red ln__1">
           <p class="contact_face">
             Контактное лицо в Москве:<br>
-Шульгин Владимир Алексеевич<br>
-+7 (499) 753 01 25<br>
-vs@rusinnovations.com<br>
+Никита Сергеев<br>
+sales@rusinnovations.com<br>
 г. Москва ул. Любойулицы д. 10
           </p>
           <img src="assets/img/Iogo.png" class="ln_img"></img>

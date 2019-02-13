@@ -244,14 +244,14 @@
 </section>
 <section id="project">
   <div class="parallax-container para_cont_2">
-      <div class="parallax para__"><img src="assets/img/main5ok.jpg"></div>
+      <div class="parallax para__"><img src="assets/img/main5ok.jpg" class="img__item__992"></div>
       <div class="content-section">
   <div class="content-wrapper w-container">
   <div class="section bottom-border">
   <div class="col s12 center" style="padding-left: 0%;">
   <div>
-  <h3 class="h2-large">IT-START</h3>
-  <p class="subtitle subtitle_1">Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий. <br>
+  <h3 class="h2-large item__text__992">IT-START</h3>
+  <p class="item__text__992 subtitle subtitle_1">Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий. <br>
 С 2018 года программа реализуется за счет средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов, при партнерской поддержки компании ПАО «МТС» и региональных Соорганизаторов.</p>
   <a href="https://vk.com/doc95748576_489254865?hash=6cb329883dd97bc8b0&amp;dl=503922a459fc3765e2" class="button w-button">Скачать положение</a></div>
   </div>
@@ -350,6 +350,20 @@
       <p class="paragraph">менеджер проектов АО "РВК"</p>
     </div>
       <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Даниил Ханин</h4>
+      <p class="paragraph">основатель UECalc</p>
+    </div>
+      <img src="assets/img/15400563_1308521232547773_4635382360933874651_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Владислав Губин</h4>
+      <p class="paragraph">Владелец продукта в Admitad</p>
+    </div>
+      <img src="assets/img/13094394_10209148080608923_1322764487236222237_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
