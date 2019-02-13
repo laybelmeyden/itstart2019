@@ -221,9 +221,9 @@
     </div>
     <div id="test4" class="col s12 tabs_1">
       <a href="/photoall"><div class="col l12">
-        <div class="col l4"><img src="assets/img/D1d29UfI6H0gfCs9U8YC.jpg" class="responsive-img"></img></div>
-        <div class="col l4"><img src="assets/img/DqwXk9bbUDb8IrwDk1OX.png" class="responsive-img"></img></div>
-        <div class="col l4"><img src="assets/img/I3WtVGcuilIdfHxsaoX3.jpg" class="responsive-img"></img></div>
+        <div class="col l4"><img src="assets/img/Snimok_ekrana_2019-02-13_v_17_17_19.png" class="responsive-img"></img></div>
+        <div class="col l4"><img src="assets/img/Snimok_ekrana_2019-02-13_v_17_18_02.png" class="responsive-img"></img></div>
+        <div class="col l4"><img src="assets/img/Snimok_ekrana_2019-02-13_v_17_18_44.png" class="responsive-img"></img></div>
       </div>
       <div class="col l2"></div>
       <div class="col l8 s12 pht_btn_item"><a href="/photoall" class="button-3 w-button">Все фото</a></div>
@@ -390,7 +390,7 @@
       <h4 class="heading-4 ">Сергеев Никита</h4>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
-      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>

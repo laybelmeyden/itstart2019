@@ -240,7 +240,7 @@ sales@rusinnovations.com<br>
       <h4 class="heading-4 ">Сергеев Никита</h4>
       <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
     </div>
-      <img src="assets/img/sp6.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
