@@ -69,7 +69,7 @@
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l4 center">
+    <div class="col s12 m12 l12 center">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
@@ -118,17 +118,17 @@
         <div class="">
           <div class="col s12 m4 line__red ln__1">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Шульгин Владимир Алексеевич<br>
-+7 (499) 753 01 25<br>
-vs@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Челябинске: <br>
+Некрасова Евгения Дмитриевна<br>
++7 951 475 79 19 <br>
+e.nekrasova@itpark74.ru <br>
+г. Челябинск, ул. Малогвардейцев, 31
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <a href="http://itpark74.ru/"><img src="assets/img/logotexpark.png" class="ln_img"></img></a>
         </div>
         <div class="col s12 m8 line__red ln__2">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=61.334623%2C55.188401&pt=39.03083333%2C45.01944444&source=entity_search&z=16&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=61.334623%2C55.188401&mode=search&oid=1766600369&ol=biz&sll=39.880671%2C59.211603&source=wizgeo&sspn=0.019655%2C0.005556&text=ООО%20«Технопарк%20информационных%20технологий»%20%20г.%20Челябинск%2C%20ул.%20Малогвардейцев%2C%2031&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -222,16 +222,17 @@ vs@rusinnovations.com<br>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8(499)753 01 25 <br> vs@rusinnovations.com</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4 ">Сергеев Никита</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <h4 class="heading-4 ">Некрасова Евгения</h4>
+      <p class="paragraph ">Контактное лицо в Челябинскe <br>
+      <i class="fab fa-whatsapp"></i>+7 951 475 79 19  <br> e.nekrasova@itpark74.ru </p>
     </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Evgenia_Dmitrievna.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -256,6 +257,9 @@ vs@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

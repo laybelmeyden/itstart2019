@@ -267,6 +267,25 @@
   <div class="maps_hr"></div>
   <p class="maps_p">выбери свой округ на карте и зарегистрируйся</p>
   </div>
+  <div class="row">
+    <div class="col l12 s12">
+        <ul class="collapsible">
+    <li>
+      <div class="collapsible-header center">Список городов участников</div>
+      <div class="collapsible-body">
+        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 19-21 апреля</p></a>
+        <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Тольятти - 26-28 апреля</p></a>
+        <a href="/center"><p>3.Центральный федеральный округ - г.Рязань - 29-31 мая</p></a>
+        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Архангельск - 29-31 марта</p></a>
+        <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a>
+        <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a>
+        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Владивосток - 5-7 апреля</p></a>
+        <a href="/daliniyvostok2"><p>8.Дальневосточный федеральный округ - г.Улан-Удэ - 24-26 мая</p></a>
+      </div>
+    </li>
+  </ul>
+    </div>
+  </div>
   <div id="russian-map"></div>
   <div id="dali">
     <div class="row">
@@ -454,6 +473,9 @@
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

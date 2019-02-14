@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Ulan-Ude.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Дальневосточный федеральный округ <br>Улан-Удэ 24-26 мая мая 2019<br></p>
+      <p class="solo__p">Дальневосточный федеральный округ <br>Улан-Удэ 24-26 мая 2019<br></p>
      </div>
     </div>
 </section>

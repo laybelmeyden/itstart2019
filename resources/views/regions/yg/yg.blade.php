@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Krasnodar.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Южный федеральный округ <br>Краснодар 19-21 апреля апреля 2019<br></p>
+      <p class="solo__p">Южный федеральный округ <br>Краснодар 19-21 апреля 2019<br></p>
      </div>
     </div>
 </section>
