@@ -60,7 +60,7 @@ setTimeout(function() {
   document.getElementById('carier').style.display = 'block';
 }, 6000);
 
-window.onload = function(){    
+  
 const success_form = document.querySelector("#formsuccess");
 setTimeout(function() {
   success_form.style.display = 'none';
@@ -69,7 +69,7 @@ setTimeout(function() {
 document.getElementById("formsuccess").onclick = () =>{
     success_form.style.display = 'none';
 };
-};
+
 (function($) {
     $(document).ready(function() {
             var owl = $('#slider');

@@ -262,7 +262,7 @@ e.nekrasova@itpark74.ru <br>
       <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>

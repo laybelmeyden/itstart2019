@@ -116,7 +116,7 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height: 550px;">
           <p class="contact_face">
             Контактное лицо в Архангельске:<br>
 Юфрякова Ольга Алексеевна<br>
@@ -124,11 +124,11 @@
 o.yufryakova@narfu.ru<br>
 г.Архангельск, ул.Урицкого 68k3
           </p>
-          <img src="assets/img/logo_normal_normal.png" class="ln_img"></img>
+         <a href="https://narfu.ru/"><img src="assets/img/logo_normal_normal.jpg" class="ln_img"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height: 550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.574179%2C64.539521&mode=search&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20ул.%20Урицкого%2C%20дом%2068%2C%20корп.3%20%2C&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.574179%2C64.539521&mode=search&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20ул.%20Урицкого%2C%20дом%2068%2C%20корп.3%20%2C&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -262,7 +262,7 @@ o.yufryakova@narfu.ru<br>
       <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
