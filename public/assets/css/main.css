@@ -152,10 +152,10 @@ h1 {
     bottom: 0;
 }
 nav ul a:hover {
-    background-color: #169e9b !important;
+    color: white;
     height: 74px;
     margin-top: -10px;
-    color: white;
+    padding-top: 10px;
 }
 .carier{
   background-color: #169e9b;
@@ -789,10 +789,11 @@ figcaption {
   line-height: 30px;
   font-weight: 400;
   color: white !important;
-  text-align: justify;
-  text-align: -webkit-auto;
 }
-
+.fa-vk{
+  color: white;
+  font-size: 20px;
+}
 .subtitle.white {
   color: #fff;
   font-weight: 300;
@@ -1224,6 +1225,26 @@ figcaption {
 .fa-envelope{
    font-size: 20px;
     padding-right: 10px;
+}
+.success__item{
+  color:white;
+}
+#formsuccess{
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #169e9b;
+    padding: 0;
+    max-height: 70%;
+    width: 55%;
+    margin: auto;
+    overflow-y: auto;
+    border-radius: 2px;
+    will-change: top, opacity;
+    top: 40px;
+    text-align: center;
+    padding: 20px;
+    z-index: 9999;
 }
 .mail{
   font-size: 14px;
@@ -5638,6 +5659,7 @@ nav a.sidenav-trigger{
     line-height: 30px;
     font-weight: 400;
     color: white !important;
+    text-align: center !important;
 }
 .part__item {
     position: absolute;

@@ -271,7 +271,7 @@
     <div class="col l12 s12">
         <ul class="collapsible">
     <li>
-      <div class="collapsible-header center">Список городов участников</div>
+      <div class="collapsible-header center">Города проведения</div>
       <div class="collapsible-body">
         <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 19-21 апреля</p></a>
         <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Тольятти - 26-28 апреля</p></a>
@@ -443,7 +443,7 @@
             </div>
             <div class="modal-body grid_form">
               <p class="p_form">Форма обратной связи</p>
-            <form action="/footerform" method="POST">
+            <form action="/footerform" method="POST" id="mainform">
               {{ csrf_field() }} 
               <div class="grid_form">Введите Вашу почту<input name="email" type="email" class="inp_text" required/></div>
               <div class="grid_form">Введите Ваше имя<input type="text" name="u_name"  class="inp_text" required/></div>
@@ -454,6 +454,13 @@
             </div>
             </div>
             <!--конецмодалки-->
+            <!--send form method-->
+            @if(session('message'))
+            <div id="formsuccess">
+              <p class="success__item">{{ session('message') }}</p>
+            </div>
+            @endif
+            <!--end-->
 </section>
 <section class="partners">
 <div class="content-section">
@@ -465,17 +472,20 @@
     <div class="flex-wrapper w-dyn-items">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;">
+        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
@@ -501,7 +511,7 @@
     </div>
     </div>
     <div class="col l12 center white-text" style="padding:30px;">Наши соц. сети</div>
-    <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><img src="assets/img/vk2.png" style="width: 30px;"></img></a></div>
+    <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><i class="fab fa-vk"></i></a></div>
     </div>
     </div>
     </div>
@@ -568,5 +578,6 @@
                 });
             });
         };
+        
 </script>
 @endsection

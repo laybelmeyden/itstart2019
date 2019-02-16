@@ -39,7 +39,7 @@ class MainController extends Controller
         $message1->from($data['email'], $data['u_name'], $data['u_text']);
         $message1->to($mail_admin, 'For Admin')->subject('Message from site');
      });
-      return back();
+      return back()->with('message', 'Спасибо за обращение! Ваше сообщение успешно отправлено !');
     }
     public function photoall()
     {

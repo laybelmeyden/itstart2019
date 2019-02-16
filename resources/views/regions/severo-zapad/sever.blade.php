@@ -9,7 +9,7 @@
       <ul id="nav-mobile" class="hide-on-med-and-down">
           <li class="nav_solo"><a href="#about__1" class="nav__item nav__item__1">О ПРОЕКТЕ</a></li>
           <li class="nav_solo__1"><a href="#mesto" class="nav__item nav__item__1">КОНТАКТЫ</a></li>
-          <li class="nav_solo__1"><a href="#register" class="nav__item nav__item__reg nav__item__1 nav__item__reg__1">РЕГИСТРАЦИЯ</a></li>
+          <li class="nav_solo__1"><a href="https://rusinnovations.timepad.ru/event/907102/" class="nav__item nav__item__reg nav__item__1 nav__item__reg__1">РЕГИСТРАЦИЯ</a></li>
       </ul>
     </div>
   </nav>
@@ -17,7 +17,7 @@
     <ul class="sidenav" id="mobile-demo">
           <li><a href="#about__1" class="nav__item">О проекте</a></li>
           <li><a href="#mesto" class="nav__item">Контакты</a></li>
-          <li><a href="#register" class="nav__item nav__item__reg">Регистрация</a></li>
+          <li><a href="https://rusinnovations.timepad.ru/event/907102/" class="nav__item nav__item__reg">Регистрация</a></li>
     </ul>
 </section>
 <section>
@@ -34,7 +34,7 @@
     <div class="row">
       <div class="col s3"></div>
       <div class="col s6 center">
-        <a class="waves-effect waves-light btn btn__solo">СТАНЬ УЧАСТНИКОМ ПРЯМО СЕЙЧАС</a>
+        <a href="https://rusinnovations.timepad.ru/event/907102/" class="waves-effect waves-light btn btn__solo">СТАНЬ УЧАСТНИКОМ ПРЯМО СЕЙЧАС</a>
       </div>
       <div class="col s3"></div>
     </div>
@@ -69,7 +69,7 @@
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l4">
+    <div class="col s12 m12 l12 center">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
@@ -103,7 +103,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8">
-          <a class="link-button" href="https://vk.com/doc50857215_484294399?hash=c564e2ebf446865475&dl=9ae04cd1fe1d21480a">Регистрация на мероприятие</a>
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/907102/">Регистрация на мероприятие</a>
         </div>
         <div class="col s2"></div>
     </div>
@@ -118,17 +118,17 @@
         <div class="">
           <div class="col s12 m4 line__red ln__1">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Шульгин Владимир Алексеевич<br>
-+7 (499) 753 01 25<br>
-vs@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Архангельске:<br>
+Юфрякова Ольга Алексеевна<br>
++79214917723<br>
+o.yufryakova@narfu.ru<br>
+г.Архангельск, ул.Урицкого 68k3
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <img src="assets/img/logo_normal_normal.png" class="ln_img"></img>
         </div>
         <div class="col s12 m8 line__red ln__2">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A762688ec59991fb5e3f623c146dbf9746d3880a40c923e4c35c1fd8f56ae85e3&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.574179%2C64.539521&mode=search&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20ул.%20Урицкого%2C%20дом%2068%2C%20корп.3%20%2C&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -222,9 +222,17 @@ vs@rusinnovations.com<br>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4 ">Юфрякова Ольга</h4>
+      <p class="paragraph ">Контактное лицо в Архангельске <br>
+      <i class="fab fa-whatsapp"></i>+79214917723  <br> o.yufryakova@narfu.ru </p>
+    </div>
+      <img src="assets/img/8Ibr7sXJpDQ.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -241,14 +249,20 @@ vs@rusinnovations.com<br>
     <div class="flex-wrapper w-dyn-items">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;">
+        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
