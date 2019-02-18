@@ -95,7 +95,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Краснодар. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Краснодар. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -126,18 +126,18 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:450px;">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Никита Сергеев<br>
-sales@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Краснодаре:<br>
+Синица Сергей Геннадьевич<br>
+sin@kubsu.ru<br>
+Краснодар, ул.Ставропольская, 149
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <a href="https://vk.com/kubsu.k_lab"><img src="assets/img/u6JnDg7sDnY.jpg" class="ln_img"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:450px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=39.031539%2C45.019664&pt=39.03083333%2C45.01944444&source=entity_search&z=14.4&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=39.031161%2C45.019627&mode=poi&poi%5Bpoint%5D=39.031076%2C45.019597&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1206103651&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=Краснодар%2C%20ул.Ставропольская%2C%20149&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="430" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -224,16 +224,24 @@ sales@rusinnovations.com<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Куратор стартап-школ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">Кураторы стартап-школ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4 ">Синица Сергей Геннадьевич</h4>
+      <p class="paragraph ">Контактное лицо в Краснодарe <br>
+      <i class="fab fa-whatsapp"></i>+7905-47-14-555  <br> esin@kubsu.ru </p>
+    </div>
+      <img src="assets/img/zLeUb11HD70.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -258,6 +266,9 @@ sales@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://vk.com/kubsu.k_lab" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

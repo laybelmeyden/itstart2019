@@ -72,7 +72,7 @@ document.getElementById("formsuccess").onclick = () =>{
 
 (function($) {
     $(document).ready(function() {
-            var owl = $('#slider');
+    var owl = $('#slider');
 owl.owlCarousel();
 // Go to the next item
 $('.nxtBtn').click(function() {
@@ -86,21 +86,3 @@ $('.prvBtn').click(function() {
 });
     });
 })(jQuery);
-
-// const anime =  document.querySelector('#el1');
-// var animation = setInterval(function() {
-//   anime.classList.add('animated', 'fadeInLeftBig', 'sl')
-// }, 8000);
-// setTimeout(function() {
-//   clearInterval(animation);
-//   anime.classList.remove('animated', 'fadeInLeftBig', 'sl')
-// }, 14000);
-// if (setTimeout(function() {
-//     document.getElementById('el1').style.display = 'none';
-// }, 12000)){
-//     anime.classList.add('animated', 'fadeInLeftBig', 'sl')
-// }
-// else
-// {
-//     anime.classList.remove('animated', 'fadeInLeftBig', 'sl')
-// }

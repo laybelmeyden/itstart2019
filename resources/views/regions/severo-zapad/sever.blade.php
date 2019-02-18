@@ -85,7 +85,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Архангельск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Архангельск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -257,9 +257,6 @@ o.yufryakova@narfu.ru<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
