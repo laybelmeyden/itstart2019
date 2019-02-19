@@ -5355,6 +5355,9 @@ th[colspan="2"]{
   border: none;
   background: none;
 }
+.img_news{
+  height: 200px;
+}
 .m-p-g__controls-close:focus, .m-p-g__controls-arrow:focus {
   outline: none;
   background-color: transparent !important;
@@ -5511,6 +5514,9 @@ nav a.sidenav-trigger{
 
 @media screen and (max-width: 992px) {
 .news_title{
+  height: auto !important;
+}
+.img_news{
   height: auto !important;
 }
 .propert{
