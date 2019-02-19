@@ -232,7 +232,7 @@ o.yufryakova@narfu.ru<br>
       <p class="paragraph ">Контактное лицо в Архангельске <br>
       <i class="fab fa-whatsapp"></i>+79214917723  <br> o.yufryakova@narfu.ru </p>
     </div>
-      <img src="assets/img/8Ibr7sXJpDQ.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/qlWCCAbvlPY.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>

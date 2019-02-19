@@ -157,6 +157,9 @@ nav ul a:hover {
     margin-top: -10px;
     padding-top: 10px;
 }
+.news_title{
+  height: 200px;
+}
 .carier{
   background-color: #169e9b;
   color: white;
@@ -5507,6 +5510,9 @@ nav a.sidenav-trigger{
 }
 
 @media screen and (max-width: 992px) {
+.news_title{
+  height: auto !important;
+}
 .propert{
   height: 300px;
 }
