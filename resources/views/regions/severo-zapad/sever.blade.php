@@ -109,6 +109,20 @@
     </div>
   </div>
 </section>
+<section id="polojen">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">ПРОГРАММА</h1>
+      </div>
+      <div class="col s2"></div>
+        <div class="col s12 m8">
+          <a class="link-button" href="https://vk.com/doc95748576_492045539?hash=4c53fb5dc4e5d3e86d&dl=4a37101406ba39cb4c" target="_blank">Скачать программу</a>
+        </div>
+        <div class="col s2"></div>
+    </div>
+  </div>
+</section>
 <section id="mesto">
   <div class="container">
     <div class="row">
@@ -232,7 +246,7 @@ o.yufryakova@narfu.ru<br>
       <p class="paragraph ">Контактное лицо в Архангельске <br>
       <i class="fab fa-whatsapp"></i>+79214917723  <br> o.yufryakova@narfu.ru </p>
     </div>
-      <img src="assets/img/qlWCCAbvlPY.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Fotoarx.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
