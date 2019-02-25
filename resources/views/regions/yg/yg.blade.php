@@ -111,11 +111,12 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-      <div class="col s2"></div>
-        <div class="col s12 m8">
-          <a class="link-button" href="https://vk.com/doc50857215_484294399?hash=c564e2ebf446865475&dl=9ae04cd1fe1d21480a">Регистрация на мероприятие</a>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/917252/">Регистрация с проживанием</a>
         </div>
-        <div class="col s2"></div>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/911846/">Регистрация без проживания</a>
+        </div>
     </div>
   </div>
 </section>
