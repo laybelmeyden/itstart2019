@@ -137,13 +137,13 @@
 Юфрякова Ольга Алексеевна<br>
 +79214917723<br>
 o.yufryakova@narfu.ru<br>
-г.Архангельск, ул.Урицкого 68k3
+г. Архангельск, набережная Северной Двины, д. 17, актовый зал, САФУ.
           </p>
          <a href="https://narfu.ru/"><img src="assets/img/logo_normal_normal.jpg" class="ln_img"></img></a>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height: 550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.574179%2C64.539521&mode=search&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20ул.%20Урицкого%2C%20дом%2068%2C%20корп.3%20%2C&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.549260%2C64.529183&mode=search&oid=171982736669&ol=biz&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20набережная%20Северной%20Двины%2C%20д.%2017%2C%20актовый%20зал%2C%20САФУ.&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
           </div>
         </div>
         </div>
