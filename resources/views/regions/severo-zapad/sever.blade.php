@@ -102,8 +102,9 @@
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
       <div class="col s2"></div>
-        <div class="col s12 m8">
+        <div class="col s12 m8 center">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/907102/">Регистрация на мероприятие</a>
+          <a href="https://vk.com/doc95748576_492567855?hash=abbed86bf221a9229b&dl=60bc66974d1af01a48" style="color:white;">* для иногородних участников</a>
         </div>
         <div class="col s2"></div>
     </div>
