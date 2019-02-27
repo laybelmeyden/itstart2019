@@ -521,7 +521,14 @@
     </div>
     <div class="col l12 center white-text" style="padding:30px;">Наши соц. сети</div>
     <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><i class="fab fa-vk"></i></a></div>
-    <!-- Yandex.Metrika counter -->
+    <div class="col l12 center">
+      <!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=52579972&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/52579972/1_0_36BEBBFF_169E9BFF_1_pageviews"
+style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="52579972" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -536,6 +543,7 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/52579972" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+    </div>
     </div>
     </div>
     </div>
