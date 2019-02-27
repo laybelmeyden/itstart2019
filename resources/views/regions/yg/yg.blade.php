@@ -134,7 +134,7 @@
 sin@kubsu.ru<br>
 Краснодар, ул.Ставропольская, 149
           </p>
-          <a href="https://vk.com/kubsu.k_lab"><img src="assets/img/u6JnDg7sDnY.jpg" class="ln_img"></img></a>
+          <a href="https://www.kubsu.ru/"><img src="assets/img/u6JnDg7sDnY.jpg" class="ln_img"></img></a>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height:450px;">
           <div id="map">
@@ -269,7 +269,7 @@ sin@kubsu.ru<br>
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://vk.com/kubsu.k_lab" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

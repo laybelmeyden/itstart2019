@@ -252,7 +252,7 @@
   <div>
   <h3 class="h2-large item__text__992">IT-START</h3>
   <p class="item__text__992 subtitle subtitle_1">Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий. <br>
-С 2018 года программа реализуется за счет средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов, при партнерской поддержки компании ПАО «МТС» и региональных Соорганизаторов.</p>
+С 2018 года программа реализуется с использование средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов, при партнерской поддержки компании ПАО «МТС» и региональных Соорганизаторов.</p>
   <a href="https://vk.com/doc95748576_489254865?hash=6cb329883dd97bc8b0&amp;dl=503922a459fc3765e2" class="button w-button">Скачать положение</a></div>
   </div>
   </div>
@@ -488,7 +488,13 @@
       <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://vk.com/kubsu.k_lab" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

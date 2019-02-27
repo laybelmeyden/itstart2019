@@ -127,19 +127,22 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height: 550px;">
           <p class="contact_face">
             Контактное лицо в Новосибирске:<br>
 Филатова Светлана Геннадьевна<br>
 s.filatova@corp.nstu.ru <br>
-89139470302 <br>
-Проспект Карла Маркса дом 20
+8(383)3460291, 89134679322<br>
+Г. Новосибирск, проспект Карла Маркса, 20 (ориентир – станция метро Студенческая)<br>
+Адрес проживания иногородних участников
+
+г. Новосибирск, Вокзальная магистраль 1, Маринс Парк Отель Новосибирск https://www.hotel-novosibirsk.ru
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <img src="assets/img/NSTU_Logo_blue.png" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height: 550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=82.906335%2C54.987746&mode=poi&poi%5Bpoint%5D=82.906415%2C54.987714&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D110170481580&sll=39.891523%2C59.220496&sspn=0.157242%2C0.044440&text=новосибирск%20Проспект%20Карла%20Маркса%20дом%2020&z=16&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?ll=82.906335%2C54.987746&mode=poi&poi%5Bpoint%5D=82.906415%2C54.987714&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D110170481580&sll=39.891523%2C59.220496&sspn=0.157242%2C0.044440&text=новосибирск%20Проспект%20Карла%20Маркса%20дом%2020&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -196,6 +199,20 @@ s.filatova@corp.nstu.ru <br>
     </div>
       <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Филатова Светлана</h4>
+      <p class="paragraph ">Контактное лицо в Новосибирске<br><i class="fab fa-whatsapp"></i>8(383)3460291, 89134679322  <br> s.filatova@corp.nstu.ru </p>
+    </div>
+      <img src="assets/img/Svetlana.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Хайленко Екатерина </h4>
+      <p class="paragraph ">Контактное лицо в Новосибирске<br><i class="fab fa-whatsapp"></i>8(383)3462918, 89232333039<br> xajlenko@corp.nstu.ru </p>
+    </div>
+      <img src="assets/img/FOto_Ekaterina.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
 </div>
 </div>
@@ -211,14 +228,20 @@ s.filatova@corp.nstu.ru <br>
     <div class="flex-wrapper w-dyn-items">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;">
+        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>
