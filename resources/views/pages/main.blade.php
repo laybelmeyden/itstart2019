@@ -456,7 +456,7 @@
             <!--конецмодалки-->
             <!--send form method-->
             @if(session('message'))
-            <div id="formsuccess">
+            <div id="formsuccess" onclick="showHide()">
               <p class="success__item">{{ session('message') }}</p>
             </div>
             @endif
@@ -521,6 +521,21 @@
     </div>
     <div class="col l12 center white-text" style="padding:30px;">Наши соц. сети</div>
     <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><i class="fab fa-vk"></i></a></div>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(52579972, "init", {
+        id:52579972,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/52579972" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
     </div>
     </div>
     </div>
@@ -587,6 +602,5 @@
                 });
             });
         };
-        
 </script>
 @endsection

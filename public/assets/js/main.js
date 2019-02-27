@@ -60,14 +60,16 @@ setTimeout(function() {
   document.getElementById('carier').style.display = 'block';
 }, 6000);
 
-  
-const success_form = document.querySelector("#formsuccess");
-setTimeout(function() {
-  success_form.style.display = 'none';
-}, 4000);
 
-document.getElementById("formsuccess").onclick = () =>{
-    success_form.style.display = 'none';
+
+  const success_form = document.getElementById("formsuccess");
+  setTimeout(function() {
+  success_form.style.display = 'none';
+}, 4000);  
+
+function showHide(){
+const success_form = document.getElementById("formsuccess");
+success_form.style.display = 'none';
 };
 
 (function($) {
