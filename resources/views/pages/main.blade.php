@@ -497,10 +497,10 @@
       <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/Logotip_AmGU.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/1548640641-logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/Logotip_Minobrnauki_Amurskoy_oblasti.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/unnamed.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>
