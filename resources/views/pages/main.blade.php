@@ -276,10 +276,10 @@
         <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 19-21 апреля</p></a>
         <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Тольятти - 26-28 апреля</p></a>
         <a href="/center"><p>3.Центральный федеральный округ - г.Рязань - 29-31 мая</p></a>
-        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Архангельск - 29-31 марта</p></a>
+        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Архангельск - 26-28 апреля</p></a>
         <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a>
         <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a>
-        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Владивосток - 5-7 апреля</p></a>
+        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 5-7 апреля</p></a>
         <a href="/daliniyvostok2"><p>8.Дальневосточный федеральный округ - г.Улан-Удэ - 24-26 мая</p></a>
       </div>
     </li>
@@ -292,7 +292,7 @@
       <span class="close__maps__item">×</span>
       <p class="maps__text__item">Выберите Ваш город в Дальневосточном федеральном округе</p>
       <div class="col s12 l6"><div class="maps_modal_confirm_item">
-        <a href="/daliniyvostok1" class="href__maps__item">Владивосток</a>
+        <a href="/daliniyvostok1" class="href__maps__item">Благовещенск</a>
       </div></div>
       <div class="col s12 l6"><div class="maps_modal_confirm_item">
         <a href="/daliniyvostok2" class="href__maps__item">Улан Удэ</a>
@@ -495,6 +495,12 @@
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/Logotip_AmGU.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/Logotip_Minobrnauki_Amurskoy_oblasti.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

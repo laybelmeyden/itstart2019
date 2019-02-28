@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Vladivostok.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Дальневосточный федеральный округ <br>Владивосток 5-7 апреля 2019<br></p>
+      <p class="solo__p">Дальневосточный федеральный округ <br>Благовещенск 5-7 апреля 2019<br></p>
      </div>
     </div>
 </section>
@@ -95,7 +95,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Владивосток. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Благовещенск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -126,19 +126,19 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:500px;">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Шульгин Владимир Алексеевич<br>
-+7 (499) 753 01 25<br>
-vs@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Благовещенскe:<br>
+Дорофеевская Валерия Игоревна<br>
+8(4162) 226-522, 89098949263<br>
+dorofeevskaya_vi@obr.amurobl.ru<br>
+Амурская область, г.Благовещенск, ул. Игнатьевское шоссе, 21, главный корпус (актовый зал)
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <a href="https://www.amursu.ru/"><img src="assets/img/Logotip_AmGU.png" class="" style="padding-top:40px;"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:500px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=131.885727%2C43.119221&mode=search&oid=1728401257&ol=biz&poi%5Bpoint%5D=61.333344%2C55.188230&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D87368994149&pt=39.03083333%2C45.01944444&sll=131.885727%2C43.119221&source=entity_search&sspn=0.009828%2C0.003969&text=Дальневосточный%20федеральный%20университет%20%28ДВФУ%29&z=17&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=127.510285%2C50.298461&mode=poi&poi%5Bpoint%5D=127.510178%2C50.298483&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D40404331775&sll=39.891523%2C59.220496&source=wizgeo&text=Амурская%20область%2C%20г.Благовещенск%2C%20ул.%20Игнатьевское%20шоссе%2C%2021&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="480" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -232,9 +232,16 @@ vs@rusinnovations.com<br>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4" style="font-size: 17px;">Дорофеевская Валерия</h4>
+      <p class="paragraph ">Контактное лицо в Благовещенске <br><i class="fab fa-whatsapp"></i><span style="font-size:14px;">8(4162) 226-522, 89098949263</span> <br> <span style="font-size:14px;">dorofeevskaya_vi@obr.amurobl.ru</span></p>
+    </div>
+      <img src="assets/img/7uL5QnHrBkE.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -259,6 +266,12 @@ vs@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/Logotip_AmGU.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/Logotip_Minobrnauki_Amurskoy_oblasti.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

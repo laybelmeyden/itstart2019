@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Arkhangelsk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Северо-Западный федеральный округ <br>Архангельск 29-31 марта 2019<br></p>
+      <p class="solo__p">Северо-Западный федеральный округ <br>Архангельск 26-28 апреля 2019<br></p>
      </div>
     </div>
 </section>
