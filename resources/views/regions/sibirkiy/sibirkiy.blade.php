@@ -204,7 +204,7 @@ s.filatova@corp.nstu.ru <br>
       <h4 class="heading-4">Филатова Светлана</h4>
       <p class="paragraph ">Контактное лицо в Новосибирске<br><i class="fab fa-whatsapp"></i>8(383)3460291, 89134679322  <br> s.filatova@corp.nstu.ru </p>
     </div>
-      <img src="assets/img/Svetlana.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/DSC_3171.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
