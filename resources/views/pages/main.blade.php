@@ -295,7 +295,7 @@
         <a href="/daliniyvostok1" class="href__maps__item">Благовещенск</a>
       </div></div>
       <div class="col s12 l6"><div class="maps_modal_confirm_item">
-        <a href="/daliniyvostok2" class="href__maps__item">Улан Удэ</a>
+        <a href="/daliniyvostok2" class="href__maps__item">Улан-Удэ</a>
       </div></div>
     </div>
   </div>
