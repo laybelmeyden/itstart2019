@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Blagoveschensk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Дальневосточный федеральный округ <br>Благовещенск 5-7 апреля 2019<br></p>
+      <p class="solo__p">Дальневосточный федеральный округ <br>Благовещенск 24-26 мая 2019<br></p>
      </div>
     </div>
 </section>
@@ -257,7 +257,7 @@ dorofeevskaya_vi@obr.amurobl.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">5-7 апреля, 2019</h4>
+                      <h4 class="heading-4 white-no-border">24-26 мая, 2019</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

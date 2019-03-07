@@ -279,7 +279,7 @@
         <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Архангельск - 29-31 марта</p></a>
         <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a>
         <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a>
-        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 5-7 апреля</p></a>
+        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 24-26 мая</p></a>
         <a href="/daliniyvostok2"><p>8.Дальневосточный федеральный округ - г.Улан-Удэ - 26-28 апреля</p></a>
       </div>
     </li>
@@ -501,6 +501,9 @@
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/unnamed.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://inter-soft.ru/" class="oart"><img src="assets/img/intersoft_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

@@ -271,6 +271,9 @@ sin@kubsu.ru<br>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://inter-soft.ru/" class="oart"><img src="assets/img/intersoft_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
     </div>
 </div>
 </div>
