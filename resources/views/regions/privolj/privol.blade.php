@@ -200,7 +200,7 @@
     <div class="team-member-description">
       <h4 class="heading-4 ">Попова Анжелика Миралиевна</h4>
       <p class="paragraph ">Контактное лицо в Тольятти <br>
-      <i class="fab fa-whatsapp"></i>89272144599</p>
+      <i class="fab fa-whatsapp"></i>89272144599 <br>ru@tltsu.ru</p>
     </div>
       <img src="assets/img/Foto_Popova_A_M.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
