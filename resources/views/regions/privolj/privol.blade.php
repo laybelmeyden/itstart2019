@@ -111,11 +111,12 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-      <div class="col s2"></div>
-        <div class="col s12 m8">
-          <a class="link-button" href="https://vk.com/doc50857215_484294399?hash=c564e2ebf446865475&dl=9ae04cd1fe1d21480a">Регистрация на мероприятие</a>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/926464/">Регистрация с проживанием</a>
         </div>
-        <div class="col s2"></div>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/926460/">Регистрация без проживания</a>
+        </div>
     </div>
   </div>
 </section>
@@ -126,19 +127,18 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:450px;">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Шульгин Владимир Алексеевич<br>
-+7 (499) 753 01 25<br>
-vs@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Тольятти:<br>
+Попова Анжелика Миралиевна<br>
+89272144599<br>
+Белорусская ул., 14, Тольятти, Самарская обл., 445020
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <img src="assets/img/TGU_round.jpg" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:450px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A762688ec59991fb5e3f623c146dbf9746d3880a40c923e4c35c1fd8f56ae85e3&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="430" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -231,17 +231,18 @@ vs@rusinnovations.com<br>
     <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <h4 class="heading-4">Сергеев Никита</h4>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
     </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4 ">Сергеев Никита</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <h4 class="heading-4 ">Попова Анжелика Миралиевна</h4>
+      <p class="paragraph ">Контактное лицо в Тольятти <br>
+      <i class="fab fa-whatsapp"></i>89272144599</p>
     </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Foto_Popova_A_M.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -266,6 +267,9 @@ vs@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://tltsu.ru/" class="oart"><img src="assets/img/TGU_round.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>
