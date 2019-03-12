@@ -120,6 +120,21 @@
     </div>
   </div>
 </section>
+<section id="polojen">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">ПРОГРАММА</h1>
+      </div>
+      <div class="col s2"></div>
+        <div class="col s12 m8 center">
+          <!--<a class="link-button" href="https://vk.com/doc95748576_492910896?hash=4badcbb4f5faa3a5ce&dl=7bb20338855997eb56" target="_blank">Скачать программу</a>-->
+        <a style="color:white;">Здесь скоро появится Программа стартап-школы</a>
+        </div>
+        <div class="col s2"></div>
+    </div>
+  </div>
+</section>
 <section id="mesto">
   <div class="container">
     <div class="row">
