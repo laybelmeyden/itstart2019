@@ -179,6 +179,13 @@ o.yufryakova@narfu.ru<br>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Горелова Ольга</h4>
+      <p class="paragraph">Уполномоченный при Губернаторе Архангельской области по защите прав предпринимателей</p>
+    </div>
+      <img src="assets/img/HFHYBOtRRzQEcDmztNm4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
 </div>
 </div>
