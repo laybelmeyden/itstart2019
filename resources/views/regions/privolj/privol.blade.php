@@ -21,10 +21,10 @@
     </ul>
 </section>
 <section>
-  <div class="parallax-container para_solo_plo">
+  <div class="parallax-container para_solo_plo_2">
       <div class="parallax"><img src="assets/img/Tolyatti.png"></div>
     <div class="row">
-      <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
+      <h1 class="solo__h1 solo__h1_2">Окружная стартап-школа<br> «IT-START»</h1>
       <p class="solo__p">Приволжский федеральный округ <br>Тольятти 26-28 апреля 2019<br></p>
      </div>
     </div>
@@ -132,6 +132,18 @@
         <a style="color:white;">Здесь скоро появится Программа стартап-школы</a>
         </div>
         <div class="col s2"></div>
+    </div>
+  </div>
+</section>
+<section id="register_22">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">СЕРТИФИКАТ</h1>
+      </div>
+        <div class="col s12 m12">
+          <a class="link-button" href="https://rusinnovations.com/shop">Приобрести сертификат</a>
+        </div>
     </div>
   </div>
 </section>

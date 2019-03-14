@@ -134,6 +134,18 @@
     </div>
   </div>
 </section>
+<section id="register_22">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">СЕРТИФИКАТ</h1>
+      </div>
+        <div class="col s12 m12">
+          <a class="link-button" href="https://rusinnovations.com/shop">Приобрести сертификат</a>
+        </div>
+    </div>
+  </div>
+</section>
 <section id="mesto">
   <div class="container">
     <div class="row">

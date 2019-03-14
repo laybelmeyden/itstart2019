@@ -1252,6 +1252,9 @@ figcaption {
 .mail{
   font-size: 14px;
 }
+.para_solo_plo_2{
+  height: 700px !important;
+}
 .heading-4 {
       color: white;
     font-size: 20px;
@@ -5344,6 +5347,9 @@ th[colspan="2"]{
   visibility: hidden;
   transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
 }
+.solo__h1_2{
+  padding-top: 150px;
+}
 .m-p-g__controls.active {
   opacity: 1;
   visibility: visible;
@@ -5513,6 +5519,12 @@ nav a.sidenav-trigger{
 }
 
 @media screen and (max-width: 992px) {
+  .solo__h1_2 {
+    padding-top: 50px;
+}
+  .para_solo_plo_2{
+    height: auto !important;
+  }
 .news_title{
   height: auto !important;
 }
