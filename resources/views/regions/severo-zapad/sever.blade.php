@@ -131,7 +131,7 @@
         <h1 class="registr_solo">СЕРТИФИКАТ</h1>
       </div>
         <div class="col s12 m12">
-          <a class="link-button" href="https://rusinnovations.com/shop">Приобрести сертификат</a>
+          <a class="link-button" href="https://rusinnovations.com/shop">Получить сертификат о прохождении курса обучения</a>
         </div>
     </div>
   </div>

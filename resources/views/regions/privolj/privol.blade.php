@@ -142,7 +142,7 @@
         <h1 class="registr_solo">СЕРТИФИКАТ</h1>
       </div>
         <div class="col s12 m12">
-          <a class="link-button" href="https://rusinnovations.com/shop">Приобрести сертификат</a>
+          <a class="link-button" href="https://rusinnovations.com/shop">Получить сертификат о прохождении курса обучения</a>
         </div>
     </div>
   </div>
@@ -161,7 +161,7 @@
 89272144599<br>
 Белорусская ул., 14, Тольятти, Самарская обл., 445020
           </p>
-          <img src="assets/img/TGU_round.jpg" class="ln_img"></img>
+          <img src="assets/img/TGU_round1.jpg" class="ln_img"></img>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height:450px;">
           <div id="map">
