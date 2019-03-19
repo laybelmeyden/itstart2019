@@ -154,18 +154,18 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:500px;">
           <p class="contact_face">
-            Контактное лицо в Москве:<br>
-Никита Сергеев<br>
-sales@rusinnovations.com<br>
-г. Москва ул. Любойулицы д. 10
+            Контактное лицо в Улан-Удэ:<br>
+Эрдыниев Жаргал Чингисович<br>
+zhargal.erdyniev@mail.ru<br>
+Республика Бурятия, город Улан - Удэ, улица Бабушкина 14а, здание Республиканского бизнес инкубатора.
           </p>
-          <img src="assets/img/Iogo.png" class="ln_img"></img>
+          <img src="assets/img/mailrusigimg_ttb14Ril.jpg" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:500px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=107.579588%2C51.836924&mode=search&oid=95415530817&ol=biz&poi%5Bpoint%5D=61.333344%2C55.188230&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D87368994149&pt=39.03083333%2C45.01944444&sll=131.885727%2C43.119221&source=entity_search&sspn=0.009828%2C0.003969&text=НКО%20«Гарантийный%20фонд%20содействия%20кредитованию%20субъектов%20малого%20и%20среднего%20предпринимательства%20и%20развития%20промышленности%20Республики%20Бурятия».&z=15&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?ll=107.593952%2C51.813996&mode=search&oid=1056505246&ol=biz&sll=107.593952%2C51.813995&source=serp_navig&text=Республика%20Бурятия%2C%20город%20Улан%20-%20Удэ%2C%20улица%20Бабушкина%2014а%2C%20здание%20Республиканского%20бизнес%20инкубатора&z=16" width="100%" height="480" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -257,18 +257,19 @@ sales@rusinnovations.com<br>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+    <div class="team-member-description" style="bottom: -96px;">
+      <h4 class="heading-4">Сергеев Никита</h4>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
     </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4 ">Сергеев Никита</h4>
-      <p class="paragraph ">Руководитель проектов <br>АНО "АИР"</p>
+      <h4 class="heading-4">Эрдыниев Жаргал Чингисович</h4>
+      <p class="paragraph ">Контактное лицо в Улан-Удэ <br><i class="fab fa-whatsapp"></i>8-999-48-49-011  <br> zhargal.erdyniev@mail.ru</p>
     </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/mailrusigimg_ttb14Ril.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
     </div>
 </div>
@@ -293,6 +294,18 @@ sales@rusinnovations.com<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/minprom.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

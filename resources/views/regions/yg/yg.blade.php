@@ -117,6 +117,9 @@
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/911846/">Регистрация без проживания</a>
         </div>
+        <div class="col s12 center">
+           <a href="https://vk.com/doc95748576_495030788?hash=8f0a1941b6fbb66d15&dl=5d1ca1fea8b4638543" style="color:white;">* для иногородних участников</a>
+      </div>
     </div>
   </div>
 </section>
@@ -154,7 +157,7 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1" style="height:450px;">
+          <div class="col s12 m4 line__red ln__1" style="height:550px;">
           <p class="contact_face">
             Контактное лицо в Краснодаре:<br>
 Синица Сергей Геннадьевич<br>
@@ -163,9 +166,9 @@ sin@kubsu.ru<br>
           </p>
           <a href="https://www.kubsu.ru/"><img src="assets/img/u6JnDg7sDnY.jpg" class="ln_img"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2" style="height:450px;">
+        <div class="col s12 m8 line__red ln__2" style="height:550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=39.031161%2C45.019627&mode=poi&poi%5Bpoint%5D=39.031076%2C45.019597&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1206103651&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=Краснодар%2C%20ул.Ставропольская%2C%20149&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="430" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=39.031161%2C45.019627&mode=poi&poi%5Bpoint%5D=39.031076%2C45.019597&poi%5Buri%5D=ymapsbm1%3A%2F%2Forg%3Foid%3D1206103651&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=Краснодар%2C%20ул.Ставропольская%2C%20149&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
           </div>
         </div>
         </div>
