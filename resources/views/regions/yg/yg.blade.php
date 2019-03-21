@@ -180,30 +180,17 @@ sin@kubsu.ru<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">РУКОВОДИТЕЛЬ ПРОГРАММЫ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Станислав Сахаров</h4>
       <p class="paragraph">Руководитель программы <br> IT-Start</p>
     </div>
       <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
-    </div>
-</div>
-</div>
-</div>
-</section>
-<section id="speakers">
-<div class="content-section">
-<div class="content-wrapper w-container">
-<div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
-</div>
-<div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Андрей Поскряков</h4>
@@ -217,27 +204,6 @@ sin@kubsu.ru<br>
       <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Шариф Кармо</h4>
-      <p class="paragraph">Сооснователь и операционный директор GetShop.TV</p>
-    </div>
-      <img src="assets/img/WhatsApp_Image_2019-02-07_at_17_50_55.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Анна Брусницына</h4>
-      <p class="paragraph">Специалист по социальному предпринимательству</p>
-    </div>
-      <img src="assets/img/c6kLtSyu5Ns.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Кудрин Антон</h4>
-      <p class="paragraph">Старший менеджер Академии PwC</p>
-    </div>
-      <img src="assets/img/Anton-e1472741963931.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">

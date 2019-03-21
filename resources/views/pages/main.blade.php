@@ -482,6 +482,9 @@
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://rbi03.com" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
@@ -512,13 +515,13 @@
       <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="" class="oart"><img src="assets/img/minprom.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>

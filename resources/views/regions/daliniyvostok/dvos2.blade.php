@@ -257,11 +257,11 @@ zhargal.erdyniev@mail.ru<br>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description" style="bottom: -96px;">
-      <h4 class="heading-4">Сергеев Никита</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
+    <div class="team-member-description">
+      <h4 class="heading-4">Владимир Шульгин</h4>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
     </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
@@ -296,6 +296,9 @@ zhargal.erdyniev@mail.ru<br>
       <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://rbi03.com" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
@@ -306,6 +309,9 @@ zhargal.erdyniev@mail.ru<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
     </div>
     </div>
 </div>
