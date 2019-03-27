@@ -236,7 +236,7 @@ sin@kubsu.ru<br>
     <div class="team-member-description">
       <h4 class="heading-4 ">Синица Сергей Геннадьевич</h4>
       <p class="paragraph ">Контактное лицо в Краснодарe <br>
-      <i class="fab fa-whatsapp"></i>+7905-47-14-555  <br> esin@kubsu.ru </p>
+      <i class="fab fa-whatsapp"></i>+7905-47-14-555  <br> sin@kubsu.ru </p>
     </div>
       <img src="assets/img/zLeUb11HD70.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
