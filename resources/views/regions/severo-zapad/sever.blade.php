@@ -118,7 +118,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8">
-          <a class="link-button" href="https://vk.com/doc95748576_494422558?hash=c464cc9a90c1be816e&dl=774963b24a19b308e3" target="_blank">Скачать программу</a>
+          <a class="link-button" href="https://vk.com/doc95748576_496026173?hash=4d2bb2622aefa8f6e2&dl=0c5e5868a3aa07c3d7" target="_blank">Скачать программу</a>
         </div>
         <div class="col s2"></div>
     </div>
