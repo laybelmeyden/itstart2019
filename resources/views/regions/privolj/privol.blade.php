@@ -154,7 +154,7 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1" style="height:450px;">
+          <div class="col s12 m4 line__red ln__1" style="height:550px;">
           <p class="contact_face">
             Контактное лицо в Тольятти:<br>
 Попова Анжелика Миралиевна<br>
@@ -163,9 +163,9 @@
           </p>
           <img src="assets/img/TGU_round1.jpg" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2" style="height:450px;">
+        <div class="col s12 m8 line__red ln__2" style="height:550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="430" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -190,17 +190,17 @@
     </div>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Андрей Поскряков</h4>
-      <p class="paragraph">Специалист по клиентоориентированности</p>
+      <h4 class="heading-4">Анна Брусницына</h4>
+      <p class="paragraph">Специалист по социальному предпринимательству</p>
     </div>
-      <img src="assets/img/sp2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/c6kLtSyu5Ns.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Матвей Бебенин</h4>
-      <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
+      <h4 class="heading-4">Артем Крицын</h4>
+      <p class="paragraph">менеджер проектов АО "РВК"</p>
     </div>
-      <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
