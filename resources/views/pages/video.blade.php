@@ -45,6 +45,12 @@
         <div class="col l6 s12">
             <iframe width="100%" height="300" src="https://www.youtube.com/embed/lhALjJCVirM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
+        <div class="col l6 s12">
+            <iframe width="100%" height="300" src="https://www.youtube.com/embed/tkwZ7xnOZ-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col l6 s12">
+            <iframe width="100%" height="300" src="https://www.youtube.com/embed/bDapCeyFYFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 
