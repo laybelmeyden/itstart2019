@@ -15,7 +15,7 @@ class MainController extends Controller
         ->limit(9)
     	->get();
     	$data = Tabimg::latest()->get();
-        return view('pages.main', compact('trynews', 'tabimgs', 'data'));
+        return view('pages.main', compact('trynews', 'data'));
     }
     public function news()
     {

@@ -128,8 +128,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-          <!--<a class="link-button" href="https://vk.com/doc95748576_492910896?hash=4badcbb4f5faa3a5ce&dl=7bb20338855997eb56" target="_blank">Скачать программу</a>-->
-        <a style="color:white;">Здесь скоро появится Программа стартап-школы</a>
+          <a class="link-button" href="https://vk.com/doc22052708_499202731?hash=7ceaf10856a47e8510&dl=829203269b8d8303a2" target="_blank">Скачать программу</a>
         </div>
         <div class="col s2"></div>
     </div>
@@ -163,7 +162,7 @@ s.filatova@corp.nstu.ru <br>
 Г. Новосибирск, проспект Карла Маркса, 20 (ориентир – станция метро Студенческая)<br>
 Адрес проживания иногородних участников
 
-г. Новосибирск, Вокзальная магистраль 1, Маринс Парк Отель Новосибирск https://www.hotel-novosibirsk.ru
+г. Новосибирск, ул. Ленина 21, AZIMUT Отель Сибирь
           </p>
           <img src="assets/img/NSTU_Logo_blue.png" class="ln_img"></img>
         </div>
@@ -176,7 +175,18 @@ s.filatova@corp.nstu.ru <br>
     </div>
   </div>
 </section>
-
+<section id="invate__speacers">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">ПРИГЛАШЕНИЕ ОТ СПИКЕРОВ</h1>
+      </div>
+        <div class="col s12 m12">
+        <iframe width="100%" height="550" src="https://www.youtube.com/embed/bDapCeyFYFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+  </div>
+</section>
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">

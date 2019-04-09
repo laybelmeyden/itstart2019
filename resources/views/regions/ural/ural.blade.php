@@ -183,6 +183,18 @@ e.nekrasova@itpark74.ru <br>
 </div>
 </div>
 </section>
+<section id="invate__speacers">
+  <div class="container">
+    <div class="row">
+      <div class="col s12 center">
+        <h1 class="registr_solo">ПРИГЛАШЕНИЕ ОТ СПИКЕРОВ</h1>
+      </div>
+        <div class="col s12 m12">
+        <iframe width="100%" height="550" src="https://www.youtube.com/embed/bDapCeyFYFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+  </div>
+</section>
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
