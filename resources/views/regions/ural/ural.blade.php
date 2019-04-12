@@ -148,7 +148,7 @@
             Контактное лицо в Челябинске: <br>
             Карболина Кристина,<br> +7 (351) 220-33-73, <br>k.karbolina@itpark74.ru<br>
 
-г. Челябинск, ул. Мологвардейцев, 31
+г. Челябинск, ул. Молодогвардейцев, 31
           </p>
           <a href="http://itpark74.ru/"><img src="assets/img/logotexpark.png" class="ln_img"></img></a>
         </div>
