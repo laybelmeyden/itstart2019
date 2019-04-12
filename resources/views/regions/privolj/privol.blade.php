@@ -154,18 +154,19 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1" style="height:550px;">
+          <div class="col s12 m4 line__red ln__1" style="height:580px;">
           <p class="contact_face">
             Контактное лицо в Тольятти:<br>
 Попова Анжелика Миралиевна<br>
 89272144599<br>
-Белорусская ул., 14, Тольятти, Самарская обл., 445020
+Белорусская ул., 14, Тольятти, Самарская обл., 445020<br>
+Адрес проживание для иногородних, Тольятти, ул. Мира, д. 77 
           </p>
           <img src="assets/img/TGU_round1.jpg" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2" style="height:550px;">
+        <div class="col s12 m8 line__red ln__2" style="height:580px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="560" frameborder="0"></iframe>
           </div>
         </div>
         </div>
