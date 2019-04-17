@@ -212,7 +212,7 @@ s.filatova@corp.nstu.ru <br>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Матвей Бебенин</h4>
-      <p class="paragraph">Руководитель бэк-энд разработки в креативном агентстве SVMD</p>
+      <p class="paragraph">Руководитель бэк-энд разработки в RuTube</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
@@ -270,9 +270,6 @@ s.filatova@corp.nstu.ru <br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://moskva.mts.ru/personal" class="oart"><img src="assets/img/14587389102mts.jpeg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
