@@ -214,6 +214,13 @@
     </div>
       <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Владислав Губин</h4>
+      <p class="paragraph">Владелец продукта в Admitad</p>
+    </div>
+      <img src="assets/img/13094394_10209148080608923_1322764487236222237_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
 </div>
 </div>
