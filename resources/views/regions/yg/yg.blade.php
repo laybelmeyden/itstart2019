@@ -118,7 +118,7 @@
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/911846/">Регистрация без проживания</a>
         </div>
         <div class="col s12 center">
-           <a href="https://vk.com/doc95748576_495030788?hash=8f0a1941b6fbb66d15&dl=5d1ca1fea8b4638543" style="color:white;">* для иногородних участников</a>
+           <a href="https://vk.com/doc95748576_498657545?hash=8fea2e357334c98b45&dl=68a7b679e72db8792f" style="color:white;">* для иногородних участников</a>
       </div>
     </div>
   </div>
