@@ -90,4 +90,7 @@ class MainController extends Controller
     {
         return view('regions.yg.yg');
     }
+    public function obninsk(){
+        return view ('regions.obninsk.obninsk');
+    }
 }

@@ -22,10 +22,10 @@
 </section>
 <section>
   <div class="parallax-container para_solo_plo">
-      <div class="parallax"><img src="assets/img/Ryazan.png"></div>
+      <div class="parallax"><img src="assets/img/Chelyabinsk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Центральный федеральный округ <br>Рязань 29-31 мая 2019<br></p>
+      <p class="solo__p">Центральный федеральный округ <br>Обнинск 1-3 июня 2019<br></p>
      </div>
     </div>
 </section>
@@ -45,44 +45,34 @@
     <div class="row">
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
       <div class="col s12 center">
-    <div class="col s12 m6 l3">
+    <div class="col s12 m6 l4">
         <img src="assets/img/Trekery.png" class="ojid__item"></img>
         <div class="pop">Лучшие трекеры</div>
     </div>
-    <div class="col s12 m6 l3">
+    <div class="col s12 m6 l4">
         <img src="assets/img/Netvorking.png" class="ojid__item"></img>
         <div class="pop">Нетворкинг</div>
     </div>
-    <div class="col s12 m6 l3">
-      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
-        <div class="pop">Международные стажировки</div>
-    </div>
-    <div class="col s12 m6 l3">
+    <div class="col s12 m6 l4">
       <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
     </div>
-    <div class="col s12 m12 l1"></div>
-     <div class="col s12 m6 l2">
-       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
-        <div class="pop">Проживание для иногородних</div>
-    </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l4">
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l4">
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l4">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m12 l12 center">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
-    <div class="col s12 m12 l1"></div>
       </div>
     </div>
 </section>
@@ -95,7 +85,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Рязань. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Обнинск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -111,12 +101,11 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-        <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/962001/">Регистрация с проживанием</a>
+      <div class="col s2"></div>
+        <div class="col s12 m8">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/959018/">Регистрация на мероприятие</a>
         </div>
-        <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/961999/">Регистрация без проживания</a>
-        </div>
+        <div class="col s2"></div>
     </div>
   </div>
 </section>
@@ -154,18 +143,18 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:580px;">
           <p class="contact_face">
-            Контактное лицо в Обнинске:<br>
-Евгений Кутузов<br>
-kutuzov@rrcd.ru<br>
-г. Рязань, ул. Каширина, 1А
+            Контактное лицо в Обнинске: <br>
+            Анастасия,<br> 7 910 526-46-43, <br><br>
+Калужская область, г.Обнинск, ул. Студенческий городок 1 ( ИАТЭ НИЯУ МИФИ)
+Корпус 3 , 7 этаж
           </p>
-          <img src="assets/img/logo_ano.png" class="ln_img"></img>
+          <a href="http://www.iate.obninsk.ru/node/19"><img src="assets/img/V2q5mL8ed8A.jpg" class="ln_img"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:580px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A954196f0b4c436c4d832764d45e7a724eddb2ca10eec012e1f95f42010238ae9&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?ll=36.607986%2C55.136325&mode=search&oid=206833913929&ol=biz&sctx=ZAAAAAgCEAAaKAoSCd9Q%2BGwd8kNAEQxzgjY5nE1AEhIJjZqvko%2Fd0j8RjiEAOPbsvT8iBQABAgQFKAowADiIqMa04KSIrTJAxwdIAVXNzMw%2BWABiJG1pZGRsZV9hc2tfZGlyZWN0X3F1ZXJ5X3R5cGVzPXJ1YnJpY2IobWlkZGxlX2luZmxhdGVfZGlyZWN0X2ZpbHRlcl93aW5kb3c9NTAwMGIScmVsZXZfZHJ1Z19ib29zdD0xYkRtaWRkbGVfZGlyZWN0X3NuaXBwZXRzPXBob3Rvcy8yLngsYnVzaW5lc3NyYXRpbmcvMi54LG1hc3N0cmFuc2l0LzEueGIebWlkZGxlX2Fza19kaXJlY3RfcGVybWFsaW5rcz0xYiptaWRkbGVfaW5mbGF0ZV9kaXJlY3RfcmVxdWVzdF93aW5kb3c9MTAwMDBiEmRpcmVjdF9wYWdlX2lkPTI0MmIdcmVsZXZfZmlsdGVyX2d3a2luZHM9MC4zLDAuNDViKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vQWxsb3dUcmF2ZWxCb29zdD0xYjFyZWFycj1zY2hlbWVfTG9jYWwvR2VvdXBwZXIvZmVhdHVyZXNGcm9tT2JqZWN0cz0xYjByZWFycj1zY2hlbWVfTG9jYWwvR2VvL0hvdGVsQm9vc3Q9cGFydG5lcl9jbGlja3NiKXJlYXJyPXNjaGVtZV9Mb2NhbC9HZW8vQ3V0QWZpc2hhU25pcHBldD0xYi9yZWFycj1zY2hlbWVfTG9jYWwvR2VvL1Bvc3RmaWx0ZXIvQWJzVGhyZXNoPTAuMmIpcmVhcnI9c2NoZW1lX0xvY2FsL0dlby9Vc2VHZW9UcmF2ZWxSdWxlPTFqAnJ1cAGVAQAAAACdAc3MTD6gAQGoAQA%3D&sll=36.607986%2C55.136325&source=wizbiz_new_map_single&sspn=0.061626%2C0.018882&text=Калужская%20область%2C%20г.Обнинск%2C%20ул.%20Студенческий%20городок%201%20%28%20ИАТЭ%20НИЯУ%20МИФИ%29%20Корпус%203%20%2C%207%20этаж&z=15&amp;source=constructor" width="100%" height="550" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -274,20 +263,6 @@ kutuzov@rrcd.ru<br>
     </div>
       <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Сергеев Никита</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
-    </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Евгений Кутузов</h4>
-      <p class="paragraph ">Контактное лицо в Рязани <br><i class="fab fa-whatsapp"></i>+7 930 069 12 36  <br> kutuzov@rrcd.ru</p>
-    </div>
-      <img src="assets/img/Izobrazhenie_149.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
     </div>
 </div>
 </div>
@@ -310,13 +285,13 @@ kutuzov@rrcd.ru<br>
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+      <a href="http://www.iate.obninsk.ru/node/19" class="oart"><img src="assets/img/V2q5mL8ed8A.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+      <a href="https://leader-id.ru/" class="oart"><img src="assets/img/S_ChELYaBINSKOM.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+      <a href="http://mininform74.ru/" class="oart"><img src="assets/img/miniinform.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
@@ -334,7 +309,7 @@ kutuzov@rrcd.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border"> 29-31 мая, 2019</h4>
+                      <h4 class="heading-4 white-no-border"> 1-3 июня, 2019</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

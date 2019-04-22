@@ -282,6 +282,7 @@
         <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a>
         <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 24-26 мая</p></a>
         <a href="/daliniyvostok2"><p>8.Дальневосточный федеральный округ - г.Улан-Удэ - 26-28 апреля</p></a>
+         <a href="/obninsk"><p>8.Центральный федеральный округ - г.Обнинск - 1-3 июня</p></a>
       </div>
     </li>
   </ul>
@@ -520,6 +521,27 @@
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://www.iate.obninsk.ru/node/19" class="oart"><img src="assets/img/V2q5mL8ed8A.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://leader-id.ru/" class="oart"><img src="assets/img/S_ChELYaBINSKOM.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://mininform74.ru/" class="oart"><img src="assets/img/miniinform.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="http://ckr174.ru/" class="oart"><img src="assets/img/Polny_v0_1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>

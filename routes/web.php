@@ -30,6 +30,7 @@ Route::get('/severo-kavkaz', 'MainController@sibir')->name('sibir');
 Route::get('/sibirkiy', 'MainController@sibirkiy')->name('sibirkiy');
 Route::get('/uraliskiy', 'MainController@ural')->name('ural');
 Route::get('/yg', 'MainController@yg')->name('yg');
+Route::get('/obninsk', 'MainController@obninsk');
 
 
 Route::group(['prefix' => 'admin'], function () {
