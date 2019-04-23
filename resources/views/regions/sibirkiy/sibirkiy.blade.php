@@ -263,19 +263,19 @@ s.filatova@corp.nstu.ru <br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;">
         </a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     </div>
 </div>

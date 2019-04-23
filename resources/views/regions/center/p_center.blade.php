@@ -156,7 +156,7 @@
         <div class="">
           <div class="col s12 m4 line__red ln__1">
           <p class="contact_face">
-            Контактное лицо в Обнинске:<br>
+            Контактное лицо в Рязани:<br>
 Евгений Кутузов<br>
 kutuzov@rrcd.ru<br>
 г. Рязань, ул. Каширина, 1А
@@ -294,22 +294,22 @@ kutuzov@rrcd.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;">
         </a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     </div>
 </div>

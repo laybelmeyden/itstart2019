@@ -1414,7 +1414,9 @@ figcaption {
   -ms-flex-align: end;
   align-items: flex-end;
 }
-
+.align_item_part{
+  text-align: center;
+}
 .full-width-section-4 {
   display: -webkit-box;
   display: -webkit-flex;

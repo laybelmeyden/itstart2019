@@ -477,71 +477,71 @@
         <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://rbi03.com" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://rbi03.com" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:40px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.nstu.ru/" class="oart"><img src="assets/img/NSTU_Logo_blue.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://novo-sibirsk.ru/" class="oart"><img src="assets/img/symbolic-gerb.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/1548640641-logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.amursu.ru/" class="oart"><img src="assets/img/1548640641-logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/unnamed.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://obr.amurobl.ru/" class="oart"><img src="assets/img/unnamed.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://inter-soft.ru/" class="oart"><img src="assets/img/intersoft_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://inter-soft.ru/" class="oart"><img src="assets/img/intersoft_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://tltsu.ru/" class="oart"><img src="assets/img/TGU_round.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://tltsu.ru/" class="oart"><img src="assets/img/TGU_round.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="" class="oart"><img src="assets/img/minprom.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="" class="oart"><img src="assets/img/minprom.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 100px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://www.iate.obninsk.ru/node/19" class="oart"><img src="assets/img/V2q5mL8ed8A.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://www.iate.obninsk.ru/node/19" class="oart"><img src="assets/img/V2q5mL8ed8A.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="https://leader-id.ru/" class="oart"><img src="assets/img/S_ChELYaBINSKOM.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://leader-id.ru/" class="oart"><img src="assets/img/S_ChELYaBINSKOM.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://mininform74.ru/" class="oart"><img src="assets/img/miniinform.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://mininform74.ru/" class="oart"><img src="assets/img/miniinform.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-      <a href="http://ckr174.ru/" class="oart"><img src="assets/img/Polny_v0_1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://ckr174.ru/" class="oart"><img src="assets/img/Polny_v0_1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     </div>
 </div>
