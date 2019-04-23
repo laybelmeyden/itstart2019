@@ -267,13 +267,6 @@ kutuzov@rrcd.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
-    </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Сергеев Никита</h4>
