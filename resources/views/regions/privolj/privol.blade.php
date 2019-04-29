@@ -173,18 +173,6 @@
     </div>
   </div>
 </section>
-<section id="invate__speacers">
-  <div class="container">
-    <div class="row">
-      <div class="col s12 center">
-        <h1 class="registr_solo">ПРИГЛАШЕНИЕ ОТ СПИКЕРОВ</h1>
-      </div>
-        <div class="col s12 m12">
-        <iframe width="100%" height="550" src="https://www.youtube.com/embed/tkwZ7xnOZ-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </div>
-  </div>
-</section>
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
@@ -199,13 +187,6 @@
       <p class="paragraph">Руководитель программы <br> IT-Start</p>
     </div>
       <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Анна Брусницына</h4>
-      <p class="paragraph">Специалист по социальному предпринимательству</p>
-    </div>
-      <img src="assets/img/c6kLtSyu5Ns.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
