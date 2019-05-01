@@ -128,8 +128,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-          <!--<a class="link-button" href="https://vk.com/doc95748576_492910896?hash=4badcbb4f5faa3a5ce&dl=7bb20338855997eb56" target="_blank">Скачать программу</a>-->
-        <a style="color:white;">Здесь скоро появится Программа стартап-школы</a>
+          <a class="link-button" href="https://vk.com/doc22052708_501719873?hash=e6daf694ea39945068&dl=ad0d801e54e0a1f1a5" target="_blank">Скачать программу</a>
         </div>
         <div class="col s2"></div>
     </div>
