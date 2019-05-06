@@ -100,11 +100,14 @@
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
+        <p class="white-text">Регистрация в два этапа</p>
       </div>
         <div class="col s12 m6">
+            <p class="white-text center">Первый этап</p>
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/951418/">Регистрация на timepad</a>
         </div>
         <div class="col s12 m6">
+          <p class="white-text center">Второй этап</p>
           <a class="link-button" href="https://leader-id.ru/event/20476/">Регистрация на leader-id</a>
         </div>
     </div>
@@ -248,7 +251,7 @@
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+      <a href="http://itpark74.ru/" class="oart"><img src="assets/img/logotexpark.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://leader-id.ru/" class="oart"><img src="assets/img/S_ChELYaBINSKOM.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>

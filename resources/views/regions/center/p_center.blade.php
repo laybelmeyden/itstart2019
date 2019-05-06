@@ -153,18 +153,19 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1">
+          <div class="col s12 m4 line__red ln__1" style="height:460px;">
           <p class="contact_face">
             Контактное лицо в Рязани:<br>
 Евгений Кутузов<br>
 kutuzov@rrcd.ru<br>
-г. Рязань, ул. Каширина, 1А
+г. Рязань, ул. Каширина, 1А <br>
+Проживание для иногородних Россия, г. Рязань, ул. Урицкого, д.2а гостиница РИРО
           </p>
           <img src="assets/img/logo_ano.png" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2">
+        <div class="col s12 m8 line__red ln__2" style="height:460px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A954196f0b4c436c4d832764d45e7a724eddb2ca10eec012e1f95f42010238ae9&amp;source=constructor" width="100%" height="330" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A954196f0b4c436c4d832764d45e7a724eddb2ca10eec012e1f95f42010238ae9&amp;source=constructor" width="100%" height="440" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -175,30 +176,17 @@ kutuzov@rrcd.ru<br>
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">РУКОВОДИТЕЛЬ ПРОГРАММЫ</h2>
+<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Станислав Сахаров</h4>
       <p class="paragraph">Руководитель программы <br> IT-Start</p>
     </div>
       <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
-    </div>
-</div>
-</div>
-</div>
-</section>
-<section id="speakers">
-<div class="content-section">
-<div class="content-wrapper w-container">
-<div class="header-centered">
-<h2 data-ix="move-up-on-scroll" class="maps_h1 spik_h">СПИКЕРЫ</h2>
-</div>
-<div data-ix="move-up-on-scroll" class="w-dyn-list">
-    <div class="flex-wrapper w-dyn-items center">
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Андрей Поскряков</h4>
@@ -212,27 +200,6 @@ kutuzov@rrcd.ru<br>
       <p class="paragraph">Бэк-энд разработчик в RuTube</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Шариф Кармо</h4>
-      <p class="paragraph">Сооснователь и операционный директор GetShop.TV</p>
-    </div>
-      <img src="assets/img/WhatsApp_Image_2019-02-07_at_17_50_55.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Кудрин Антон</h4>
-      <p class="paragraph">Старший менеджер Академии PwC</p>
-    </div>
-      <img src="assets/img/Anton-e1472741963931.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Артем Крицын</h4>
-      <p class="paragraph">менеджер проектов АО "РВК"</p>
-    </div>
-      <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
