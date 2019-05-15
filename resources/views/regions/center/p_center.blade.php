@@ -158,14 +158,14 @@
             Контактное лицо в Рязани:<br>
 Евгений Кутузов<br>
 kutuzov@rrcd.ru<br>
-г. Рязань, ул. Каширина, 1А <br>
+г. Рязань, Ул. Ленина, 52 <br>
 Проживание для иногородних Россия, г. Рязань, ул. Урицкого, д.2а гостиница РИРО
           </p>
           <img src="assets/img/logo_ano.png" class="ln_img"></img>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height:460px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A954196f0b4c436c4d832764d45e7a724eddb2ca10eec012e1f95f42010238ae9&amp;source=constructor" width="100%" height="440" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A342f2d5aa35d80e7f4a0fd9af54e8a8d40608e992b73988a4680bfbab8d7f3d0&amp;source=constructor" width="100%" height="440" frameborder="0"></iframe>
           </div>
         </div>
         </div>
