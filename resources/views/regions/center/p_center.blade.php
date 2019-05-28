@@ -128,7 +128,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-          <a class="link-button" href="https://vk.com/doc22052708_501719873?hash=e6daf694ea39945068&dl=ad0d801e54e0a1f1a5" target="_blank">Скачать программу</a>
+          <a class="link-button" href="https://vk.com/doc22052708_504838833?hash=cf991014d1166803e5&dl=eb6d252a84f4a2749c" target="_blank">Скачать программу</a>
         </div>
         <div class="col s2"></div>
     </div>
@@ -159,7 +159,7 @@
 Евгений Кутузов<br>
 kutuzov@rrcd.ru<br>
 г. Рязань, Ул. Ленина, 52 <br>
-Проживание для иногородних Россия, г. Рязань, ул. Урицкого, д.2а гостиница РИРО
+Проживание для иногородних Россия, г. Рязань, Улица Колхозная 15 Отель Ловеч Спорт
           </p>
           <img src="assets/img/logo_ano.png" class="ln_img"></img>
         </div>
