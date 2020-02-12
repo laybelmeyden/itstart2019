@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>IT-START-2019</title>
+  <title>IT-START-2020</title>
   <!--meta-->
   <meta charset="UTF-8">
   <meta name="description" content="Всероссийская программы развития технологического предпринимательства в молодежной среде IT-Start"/>
@@ -12,11 +12,11 @@
   
   
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="IT-START-2019" />
+  <meta property="og:title" content="IT-START-2020" />
   <meta property="og:description" content="Всероссийская программы развития технологического предпринимательства в молодежной среде IT-Start" />
   <meta property="og:image" href="" content="assets/img/it_start_logo.png"  />
-  <meta property="og:url" content="IT-START-2019" />
-  <meta property="og:site_name" content="IT-START-2019" />
+  <meta property="og:url" content="IT-START-2020" />
+  <meta property="og:site_name" content="IT-START-2020" />
   
   <link rel="SHORTCUT ICON" href="assets/img/air_fav.png" type="image/x-icon">
   <link rel="stylesheet" href="assets/css/main.css" type="text/css" />

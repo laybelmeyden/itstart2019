@@ -33,7 +33,7 @@
     <div class="container center">
     <div class="row">
       <div class="col l2 s2"></div>
-      <div class="col l4 s4"><a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/"><img src="assets/img/Fond_logo.png" class="part__logo__item"></a></div>
+      <div class="col l4 s4"><a href="https://moskva.mts.ru/personal"><img src="assets/img/Fond_logo.png" class="part__logo__item"></a></div>
       <div class="col l4 s4"><a href="http://rusinnovations.com/"><img src="assets/img/AIR1.png" class="part__logo__item"></a></div>
       <div class="col l2 s2"></div>
     </div>
@@ -46,7 +46,7 @@
     <div class="col l9 s7 non">
       <div class="col l3 center">
         <div class="col l12"><p class="carier_1">ТЫ</p></div>
-        <div class="col l12 col_span_2"><p class="carier_2">16-30</p></div>
+        <div class="col l12 col_span_2"><p class="carier_2">16-35</p></div>
         <div class="col l12"><p class="carier_3">ЛЕТ</p></div>
         </div>
       <div class="col l9 s5">
@@ -120,31 +120,23 @@
         <div class="pop">Нетворкинг</div>
     </div>
     <div class="col s12 m6 l3">
-      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
-        <div class="pop">Международные стажировки</div>
-    </div>
-    <div class="col s12 m6 l3">
       <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
     </div>
-    <div class="col s12 m12 l1"></div>
-     <div class="col s12 m6 l2">
-       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
-        <div class="pop">Проживание для иногородних</div>
-    </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m12 l1"></div>
+    <div class="col s12 m6 l3">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
@@ -252,9 +244,9 @@
   <div class="col s12 center" style="padding-left: 0%;">
   <div>
   <h3 class="h2-large item__text__992">IT-START</h3>
-  <p class="item__text__992 subtitle subtitle_1">Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий. <br>
-С 2018 года программа реализуется с использование средств гранта Президента Российской Федерации на развитие гражданского общества, предоставленного Фондом президентских грантов, при партнерской поддержки компании ПАО «МТС» и региональных Соорганизаторов.</p>
-  <a href="https://vk.com/doc95748576_489254865?hash=6cb329883dd97bc8b0&amp;dl=503922a459fc3765e2" class="button w-button">Скачать положение</a></div>
+  <p class="item__text__992 subtitle subtitle_1">Это постоянно действующая программа поддержки молодых программистов и молодежных проектов в сфере информационных технологий.
+<br>С 2020 году программа реализуется при партнерской поддержки компании МТС и региональных Соорганизаторов.</p>
+  <!-- <a href="https://vk.com/doc95748576_489254865?hash=6cb329883dd97bc8b0&amp;dl=503922a459fc3765e2" class="button w-button">Скачать положение</a></div> -->
   </div>
   </div>
   </div>
@@ -274,21 +266,21 @@
     <li>
       <div class="collapsible-header center">Города проведения</div>
       <div class="collapsible-body">
-        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 19-21 апреля</p></a>
-        <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Тольятти - 26-28 апреля</p></a>
-        <a href="/center"><p>3.Центральный федеральный округ - г.Рязань - 29-31 мая</p></a>
-        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Архангельск - 29-31 марта</p></a>
-        <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a>
-        <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a>
-        <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 24-26 мая</p></a>
-        <a href="/daliniyvostok2"><p>8.Дальневосточный федеральный округ - г.Улан-Удэ - 26-28 апреля</p></a>
+        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар</p></a>
+        <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Уфа</p></a>
+        <a href="/center"><p>3.Центральный федеральный округ - г.Рязань</p></a>
+        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Калининград</p></a>
+        <!-- <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a> -->
+        <!-- <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a> -->
+        <!-- <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 24-26 мая</p></a> -->
+        <a href="/daliniyvostok2"><p>5.Дальневосточный федеральный округ - г.Якутск</p></a>
       </div>
     </li>
   </ul>
     </div>
   </div>
   <div id="russian-map"></div>
-  <div id="dali">
+  <!-- <div id="dali">
     <div class="row">
       <span class="close__maps__item">×</span>
       <p class="maps__text__item">Выберите Ваш город в Дальневосточном федеральном округе</p>
@@ -299,7 +291,7 @@
         <a href="/daliniyvostok2" class="href__maps__item">Улан-Удэ</a>
       </div></div>
     </div>
-  </div>
+  </div> -->
 </section>
 <section id="speakers">
 <div class="content-section">
@@ -339,44 +331,16 @@
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Матвей Бебенин</h4>
-      <p class="paragraph">Бэк-энд разработчик в RuTube</p>
+      <p class="paragraph">менеджер по продукту MedPoint24</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Шариф Кармо</h4>
-      <p class="paragraph">Сооснователь и операционный директор GetShop.TV</p>
-    </div>
-      <img src="assets/img/WhatsApp_Image_2019-02-07_at_17_50_55.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Кудрин Антон</h4>
-      <p class="paragraph">Старший менеджер Академии PwC</p>
-    </div>
-      <img src="assets/img/Anton-e1472741963931.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
       <h4 class="heading-4">Артем Крицын</h4>
-      <p class="paragraph">менеджер проектов АО "РВК"</p>
+      <p class="paragraph">Директор ФГБУ «Координационный центр Межправительственной комиссии по сотрудничеству в области вычислительной техники»</p>
     </div>
       <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Даниил Ханин</h4>
-      <p class="paragraph">основатель UECalc</p>
-    </div>
-      <img src="assets/img/15400563_1308521232547773_4635382360933874651_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Владислав Губин</h4>
-      <p class="paragraph">Владелец продукта в Admitad</p>
-    </div>
-      <img src="assets/img/13094394_10209148080608923_1322764487236222237_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -547,11 +511,11 @@
     <div class="cta-box">
     <div data-ix="move-up-on-load-2" class="cta-bottom-flex">
     <i class="fas fa-map-marked-alt marker_f"></i>
-    <h4 class="heading-4 white-no-border">7 округов</h4>
+    <h4 class="heading-4 white-no-border">5 округов</h4>
     </div>
     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
     <i class="far fa-calendar-alt marker_f"></i>
-    <h4 class="heading-4 white-no-border">с 29 марта по 31 мая, 2019</h4>
+    <h4 class="heading-4 white-no-border">с 9 преля по 31 мая, 2020</h4>
     </div>
     <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
     <i class="far fa-user marker_f"></i>
@@ -560,10 +524,6 @@
     </div>
     <div class="col l12 center white-text" style="padding:30px;">Наши соц. сети</div>
     <div class="col l12 center"><a target="_blank" href="https://vk.com/aidrussia"><i class="fab fa-vk"></i></a></div>
-    <div class="col l12 center white-text" style="padding:30px;">Сайт разработан с использованием средств Фонда президентских грантов на развитие гражданского общества</div>
-    <div class="col l12 center">
- <!-- Yandex.Metrika informer --> <a href="https://metrika.yandex.ru/stat/?id=52579972&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/52579972/1_0_36BEBBFF_169E9BFF_1_pageviews" style="width:80px; height:15px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры)" class="ym-advanced-informer" data-cid="52579972" data-lang="ru" /></a> <!-- /Yandex.Metrika informer --> <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(52579972, "init", { id:52579972, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/52579972" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
-    </div>
     </div>
     </div>
     </div>
@@ -587,19 +547,19 @@
                         mouseMoveAttr: {
                             fill: '#f79f68'
                         },
-                        onMouseMove: function(event) {
-                            console.log('mouse on ' + this.region.name);
-                        },
+                        // onMouseMove: function(event) {
+                        //     console.log('mouse on ' + this.region.name);
+                        // },
                         onMouseOut: function(event) {
                            
                         },
                         onMouseClick: function(event) {
-                          if (this.region.name == "Сибирский федеральный округ") {
-                            document.location.href = "/sibirkiy";
-                          }
-                          if (this.region.name == "Уральский федеральный округ") {
-                            document.location.href = "/uraliskiy";
-                          }
+                          // if (this.region.name == "Сибирский федеральный округ") {
+                          //   document.location.href = "/sibirkiy";
+                          // }
+                          // if (this.region.name == "Уральский федеральный округ") {
+                          //   document.location.href = "/uraliskiy";
+                          // }
                           if (this.region.name == "Северо-Западный федеральный округ") {
                             document.location.href = "/severo-zapad";
                           }
@@ -617,12 +577,12 @@
                             
                           }
                           if (this.region.name == "Дальневосточный федеральный округ") {
-                            
-                              const a_modal = document.querySelector("#dali").style.display = "block";
-                              const a_modal_close = document.querySelector(".close__maps__item");
-                              a_modal_close.onclick = function() {
-                              const a_modal = document.querySelector("#dali").style.display = "none";
-                              }
+                              document.location.href = "/daliniyvostok1";
+                              // const a_modal = document.querySelector("#dali").style.display = "block";
+                              // const a_modal_close = document.querySelector(".close__maps__item");
+                              // a_modal_close.onclick = function() {
+                              // const a_modal = document.querySelector("#dali").style.display = "none";
+                              // }
                               
                           }
                         }
