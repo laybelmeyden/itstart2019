@@ -429,6 +429,16 @@
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://moskva.mts.ru/personal">
+        <img src="assets/img/MTS_Logo_rus_r.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        </a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://socialidea.ru/">
+        <img src="assets/img/Group.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        </a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
         <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
