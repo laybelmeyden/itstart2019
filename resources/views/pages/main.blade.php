@@ -127,7 +127,6 @@
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m12 l1"></div>
     <div class="col s12 m6 l3">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
@@ -140,7 +139,6 @@
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
-    <div class="col s12 m12 l1"></div>
     </div>
     <div id="test2" class="col s12 tabs_1">
       <section id="players">
@@ -266,7 +264,7 @@
     <li>
       <div class="collapsible-header center">Города проведения</div>
       <div class="collapsible-body">
-        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар</p></a>
+        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 9 - 11 апреля</p></a>
         <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Уфа</p></a>
         <a href="/center"><p>3.Центральный федеральный округ - г.Рязань</p></a>
         <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Калининград</p></a>
@@ -532,7 +530,7 @@
     </div>
     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
     <i class="far fa-calendar-alt marker_f"></i>
-    <h4 class="heading-4 white-no-border">с 9 преля по 31 мая, 2020</h4>
+    <h4 class="heading-4 white-no-border">с 9 апреля по 31 мая, 2020</h4>
     </div>
     <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
     <i class="far fa-user marker_f"></i>

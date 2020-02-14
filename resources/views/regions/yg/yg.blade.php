@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Krasnodar.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Южный федеральный округ <br>Краснодар 19-21 апреля 2019<br></p>
+      <p class="solo__p">Южный федеральный округ <br>Краснодар 9-11 апреля 2020<br></p>
      </div>
     </div>
 </section>
@@ -54,35 +54,25 @@
         <div class="pop">Нетворкинг</div>
     </div>
     <div class="col s12 m6 l3">
-      <img src="assets/img/Mezhdunarodnye_stazhirovki.png" class="ojid__item"></img>
-        <div class="pop">Международные стажировки</div>
-    </div>
-    <div class="col s12 m6 l3">
       <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
     </div>
-    <div class="col s12 m12 l1"></div>
-     <div class="col s12 m6 l2">
-       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
-        <div class="pop">Проживание для иногородних</div>
-    </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
         <div class="pop">Инструменты для развития социальных проектов </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l2">
+    <div class="col s12 m6 l3">
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
-    <div class="col s12 m12 l1"></div>
       </div>
     </div>
 </section>
@@ -94,9 +84,9 @@
       </div>
       <div class="col s12">
         <p class="p_regions">
-                    <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Краснодар. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
-                </p>
+          <strong style="color:black;">Окружная стартап-школа</strong>
+          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Краснодар. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+        </p>
       </div>
       <div class="col s3 center"></div>
       <div class="col s12 m6 center">
@@ -111,14 +101,14 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-        <div class="col s12 m6">
+        <!-- <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/917252/">Регистрация с проживанием</a>
         </div>
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/911846/">Регистрация без проживания</a>
-        </div>
+        </div> -->
         <div class="col s12 center">
-           <a href="https://vk.com/doc95748576_498657545?hash=8fea2e357334c98b45&dl=68a7b679e72db8792f" style="color:white;">* для иногородних участников</a>
+           <a href="#" style="color:white;">* Ожидайте</a>
       </div>
     </div>
   </div>
@@ -131,7 +121,7 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-          <a class="link-button" href="https://vk.com/doc95748576_497640736?hash=434dc93ac622ca3d0c&dl=73cb4213ecf7b23371" target="_blank">Скачать программу</a>
+        <a href="#" style="color:white;">* Ожидайте</a>
         <!--<a style="color:white;">Здесь скоро появится Программа стартап-школы</a>-->
         </div>
         <div class="col s2"></div>
@@ -144,8 +134,8 @@
       <div class="col s12 center">
         <h1 class="registr_solo">СЕРТИФИКАТ</h1>
       </div>
-        <div class="col s12 m12">
-          <a class="link-button" href="https://rusinnovations.com/shop">Получить сертификат о прохождении курса обучения</a>
+        <div class="col s12 m12 center">
+        <a href="#" style="color:white;">* Ожидайте</a>
         </div>
     </div>
   </div>
@@ -297,7 +287,7 @@ sin@kubsu.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">19-21 апреля, 2019</h4>
+                      <h4 class="heading-4 white-no-border">9-11 апреля, 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>
