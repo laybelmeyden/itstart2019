@@ -110,7 +110,8 @@
   </div>
 </div>
 <div class="row">
-  <div id="test1" class="col s12 tabs_1 center grid_tabs_1">
+  <div id="test1" class="tabs_1">
+    <div class="col s12 center grid_tabs_1">
     <div >
         <img src="assets/img/Trekery.png" class="ojid__item"></img>
         <div class="pop">Лучшие трекеры</div>
@@ -138,6 +139,7 @@
     <div >
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
+    </div>
     </div>
     </div>
     <div id="test2" class="col s12 tabs_1">
