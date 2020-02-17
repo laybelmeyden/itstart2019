@@ -44,40 +44,36 @@
 <section id="bonus">
     <div class="row">
       <div class="col s12"><h1 class="bonus_ponus">Стартуй вместе с «IT-Start»</h1></div>
-      <div class="col s12 center">
-    <div class="col s12 m6 l4">
+      <div class="grid_tabs_1">
+    <div >
         <img src="assets/img/Trekery.png" class="ojid__item"></img>
         <div class="pop">Лучшие трекеры</div>
     </div>
-    <div class="col s12 m6 l4">
+    <div >
         <img src="assets/img/Netvorking.png" class="ojid__item"></img>
         <div class="pop">Нетворкинг</div>
     </div>
-    <div class="col s12 m6 l4">
+    <div >
       <img src="assets/img/Tsennye_prizy_i_podarki.png" class="ojid__item"></img>
         <div class="pop">Ценные призы и подарки для победителей </div>
     </div>
-     <div class="col s12 m6 l4">
-       <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
-        <div class="pop">Проживание для иногородних</div>
-    </div>
-    <div class="col s12 m6 l4">
+    <div >
       <img src="assets/img/Audit.png" class="ojid__item"></img>
         <div class="pop">Аудит технологических проектов </div>
     </div>
-    <div class="col s12 m6 l4">
-      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
-        <div class="pop">Инструменты для развития социальных проектов </div>
-    </div>
-    <div class="col s12 m6 l4">
+    <div >
       <img src="assets/img/Podgotovka_zayavok.png" class="ojid__item"></img>
         <div class="pop">Подготовка заявок на получение проектного финансирования </div>
     </div>
-    <div class="col s12 m6 l4">
+    <div >
+      <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
+        <div class="pop">Инструменты для развития социальных проектов </div>
+    </div>
+    <div >
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
-      </div>
+    </div>
     </div>
 </section>
 <section id="about__1">
