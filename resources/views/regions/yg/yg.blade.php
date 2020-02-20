@@ -24,7 +24,7 @@
   <div class="parallax-container para_solo_plo">
       <div class="parallax"><img src="assets/img/Krasnodar.png"></div>
     <div class="row">
-      <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
+      <h1 class="solo__h1">Окружная IT-школа социального предпринимательства<br> «IT-START»</h1>
       <p class="solo__p">Южный федеральный округ <br>Краснодар 9-11 апреля 2020<br></p>
      </div>
     </div>
@@ -73,6 +73,10 @@
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
         <div class="pop">Стажировки в подразделениях компании МТС</div>
     </div>
+    <div >
+      <img src="assets/img/Prozhivanie.png" class="ojid__item"></img>
+        <div class="pop">Бесплатное проживание для иногородних участников <br>*количество мест ограничено</div>
+    </div>
     </div>
     </div>
 </section>
@@ -85,7 +89,7 @@
       <div class="col s12">
         <p class="p_regions">
           <strong style="color:black;">Окружная стартап-школа</strong>
-          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Краснодар. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в Краснодаре. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри. В этом году финальная питч-сессия (11 апреля) пройдет в рамках Всероссийского Проекта «ДОБРОПОЕЗД-2020», направленный на улучшение условий жизнедеятельности и жизнеобеспечения людей с особенностями физического и интеллектуального развития.
         </p>
       </div>
       <div class="col s3 center"></div>
@@ -101,15 +105,12 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-        <!-- <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/917252/">Регистрация с проживанием</a>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/1266024/">Регистрация с проживанием</a>
         </div>
         <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/911846/">Регистрация без проживания</a>
-        </div> -->
-        <div class="col s12 center">
-           <a href="#" style="color:white;">* Ожидайте</a>
-      </div>
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/1266127/">Регистрация без проживания</a>
+        </div>
     </div>
   </div>
 </section>
@@ -254,11 +255,17 @@ sin@kubsu.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;">
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://moskva.mts.ru/personal">
+        <img src="assets/img/MTS_Logo_rus_r.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://socialidea.ru/">
+        <img src="assets/img/Group.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        </a>
+    </div>
+   
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
