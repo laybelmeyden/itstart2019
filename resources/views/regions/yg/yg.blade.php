@@ -104,6 +104,8 @@
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
+        <a href="#" style="color:white;">*открыта до 31.03, но может закрыться раньше указанной даты<br>
+количество мест ограничено</a>
       </div>
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/1266024/">Регистрация с проживанием</a>
