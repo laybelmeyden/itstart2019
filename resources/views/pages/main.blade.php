@@ -566,7 +566,7 @@
     </div>
     </div>
     </div>
-    <div class="center">
+    <div class="center" style="    background-color: #169e9b;">
     <!-- Yandex.Metrika informer -->
 <a href="https://metrika.yandex.ru/stat/?id=57655819&amp;from=informer"
 target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/57655819/1_1_36BEBBFF_169E9BFF_1_pageviews"
