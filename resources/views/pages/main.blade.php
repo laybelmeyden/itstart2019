@@ -471,7 +471,7 @@
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://minsvyazcc.ru/" class="oart"><img src="assets/img/Ig7b7ABMrEY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+      <a href="https://minsvyazcc.ru/" class="oart"><img src="assets/img/Ig7b7ABMrEY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
