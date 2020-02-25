@@ -67,7 +67,7 @@
     </div>
     <div >
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
-        <div class="pop">Инструменты для развития социальных проектов </div>
+        <div class="pop">Инструменты для развития IT-проектов </div>
     </div>
     <div >
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
