@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Arkhangelsk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Северо-Западный федеральный округ <br>17-19 апреля 2020<br></p>
+      <p class="solo__p">Северо-Западный федеральный округ <br>г. Калининград 17-19 апреля 2020<br></p>
      </div>
     </div>
 </section>
@@ -142,13 +142,14 @@
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1" style="height: 550px;">
+          <div class="col s12 m4 line__red ln__1" style="height: 420px;">
           <p class="contact_face">
+          г. Калининград 17-19 апреля 2020 <br>
           ул. Александра Невского д. 14. Балтийский федеральный университет им. И.Канта.
           </p>
          <a href="https://www.kantiana.ru/"><img src="assets/img/124124.png" class="ln_img"></img></a>
         </div>
-        <div class="col s12 m8 line__red ln__2" style="height: 550px;">
+        <div class="col s12 m8 line__red ln__2" style="height: 420px;">
           <div id="map">
           <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Af2a9a46522a1566dbd1f49de173d28e78ea3648d6adef6d540b5211058620fb9&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
           </div>
