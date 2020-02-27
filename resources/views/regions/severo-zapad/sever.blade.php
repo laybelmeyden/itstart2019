@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Arkhangelsk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Северо-Западный федеральный округ <br>Архангельск 29-31 марта 2019<br></p>
+      <p class="solo__p">Северо-Западный федеральный округ <br>17-19 апреля 2020<br></p>
      </div>
     </div>
 </section>
@@ -34,7 +34,7 @@
     <div class="row">
       <div class="col s3"></div>
       <div class="col s6 center">
-        <a href="https://rusinnovations.timepad.ru/event/907102/" class="waves-effect waves-light btn btn__solo">СТАНЬ УЧАСТНИКОМ ПРЯМО СЕЙЧАС</a>
+        <a href="https://rusinnovations.timepad.ru/event/1271391/" class="waves-effect waves-light btn btn__solo">СТАНЬ УЧАСТНИКОМ ПРЯМО СЕЙЧАС</a>
       </div>
       <div class="col s3"></div>
     </div>
@@ -67,7 +67,7 @@
     </div>
     <div >
       <img src="assets/img/Instrumenty.png" class="ojid__item"></img>
-        <div class="pop">Инструменты для развития социальных проектов </div>
+        <div class="pop">Инструменты для развития IT-проектов </div>
     </div>
     <div >
       <img src="assets/img/Stazhirovki.png" class="ojid__item"></img>
@@ -83,10 +83,10 @@
         <h1 class="h1_region">О проекте</h1>
       </div>
       <div class="col s12">
-        <p class="p_regions">
-                    <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Архангельск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
-                </p>
+      <p class="p_regions">
+          <strong style="color:black;">Окружная IT-школа</strong>
+          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в Краснодаре. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри. В этом году финальная питч-сессия (11 апреля) пройдет в рамках Всероссийского Проекта «ДОБРОПОЕЗД-2020», направленный на улучшение условий жизнедеятельности и жизнеобеспечения людей с особенностями физического и интеллектуального развития.
+        </p>
       </div>
       <div class="col s3 center"></div>
       <div class="col s12 m6 center">
@@ -103,14 +103,13 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/907102/">Регистрация на мероприятие</a>
-          <a href="https://vk.com/doc95748576_492567855?hash=abbed86bf221a9229b&dl=60bc66974d1af01a48" style="color:white;">* для иногородних участников</a>
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/1271391/">Регистрация на мероприятие</a>
         </div>
         <div class="col s2"></div>
     </div>
   </div>
 </section>
-<section id="polojen">
+<!-- <section id="polojen">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -123,8 +122,8 @@
         <div class="col s2"></div>
     </div>
   </div>
-</section>
-<section id="register_22">
+</section> -->
+<!-- <section id="register_22">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -135,7 +134,7 @@
         </div>
     </div>
   </div>
-</section>
+</section> -->
 <section id="mesto">
   <div class="container">
     <div class="row">
@@ -145,17 +144,13 @@
         <div class="">
           <div class="col s12 m4 line__red ln__1" style="height: 550px;">
           <p class="contact_face">
-            Контактное лицо в Архангельске:<br>
-Юфрякова Ольга Алексеевна<br>
-+79214917723<br>
-o.yufryakova@narfu.ru<br>
-г. Архангельск, набережная Северной Двины, дом 17, Главный корпус САФУ, ауд. 1323 (3-й этаж)
+          ул. Александра Невского д. 14. Балтийский федеральный университет им. И.Канта.
           </p>
-         <a href="https://narfu.ru/"><img src="assets/img/logo_normal_normal.jpg" class="ln_img"></img></a>
+         <a href="https://www.kantiana.ru/"><img src="assets/img/124124.png" class="ln_img"></img></a>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height: 550px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=40.549260%2C64.529183&mode=search&oid=171982736669&ol=biz&sll=39.891523%2C59.220496&source=wizgeo&sspn=1.257935%2C0.355522&text=г.%20Архангельск%2C%20набережная%20Северной%20Двины%2C%20д.%2017%2C%20актовый%20зал%2C%20САФУ.&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="530" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Af2a9a46522a1566dbd1f49de173d28e78ea3648d6adef6d540b5211058620fb9&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -199,16 +194,9 @@ o.yufryakova@narfu.ru<br>
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Матвей Бебенин</h4>
-      <p class="paragraph">Бэк-энд разработчик в RuTube</p>
+      <p class="paragraph">Product Manager в Medpoint24</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Горелова Ольга</h4>
-      <p class="paragraph">Уполномоченный при Губернаторе Архангельской области по защите прав предпринимателей</p>
-    </div>
-      <img src="assets/img/HFHYBOtRRzQEcDmztNm4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -223,20 +211,12 @@ o.yufryakova@narfu.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
-    </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4 ">Юфрякова Ольга</h4>
-      <p class="paragraph ">Контактное лицо в Архангельске <br>
-      <i class="fab fa-whatsapp"></i>+79214917723  <br> o.yufryakova@narfu.ru </p>
+      <h4 class="heading-4">Сергеев Никита</h4>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
     </div>
-      <img src="assets/img/Fotoarx.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -251,9 +231,9 @@ o.yufryakova@narfu.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://moskva.mts.ru/personal">
+        <img src="assets/img/MTS_Logo_rus_r.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
         </a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
@@ -261,6 +241,12 @@ o.yufryakova@narfu.ru<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://narfu.ru/" class="oart"><img src="assets/img/logo_normal_normal.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://minsvyazcc.ru/" class="oart"><img src="assets/img/Ig7b7ABMrEY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.kantiana.ru/" class="oart"><img src="assets/img/124124.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>

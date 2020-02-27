@@ -353,7 +353,7 @@
      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Матвей Бебенин</h4>
-      <p class="paragraph">менеджер по продукту MedPoint24</p>
+      <p class="paragraph">Product Manager в Medpoint24</p>
     </div>
       <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
