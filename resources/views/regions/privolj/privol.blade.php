@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Tolyatti.png"></div>
     <div class="row">
       <h1 class="solo__h1 solo__h1_2">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Приволжский федеральный округ <br>Тольятти 26-28 апреля 2019<br></p>
+      <p class="solo__p">Приволжский федеральный округ <br>Уфа 24-26 апреля 2020<br></p>
      </div>
     </div>
 </section>
@@ -83,10 +83,10 @@
         <h1 class="h1_region">О проекте</h1>
       </div>
       <div class="col s12">
-        <p class="p_regions">
-                    <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Тольятти. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
-                </p>
+      <p class="p_regions">
+          <strong style="color:black;">Окружная IT-школа</strong>
+          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в Краснодаре. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри. В этом году финальная питч-сессия (11 апреля) пройдет в рамках Всероссийского Проекта «ДОБРОПОЕЗД-2020», направленный на улучшение условий жизнедеятельности и жизнеобеспечения людей с особенностями физического и интеллектуального развития.
+        </p>
       </div>
       <div class="col s3 center"></div>
       <div class="col s12 m6 center">
@@ -100,13 +100,14 @@
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
+        <a style="color:white;">Здесь скоро появится регистрация ИТ-школы</a>
       </div>
-        <div class="col s12 m6">
+        <!-- <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/926464/">Регистрация с проживанием</a>
         </div>
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/926460/">Регистрация без проживания</a>
-        </div>
+        </div> -->
     </div>
   </div>
 </section>
@@ -119,7 +120,7 @@
       <div class="col s2"></div>
         <div class="col s12 m8 center">
           <!--<a class="link-button" href="https://vk.com/doc95748576_492910896?hash=4badcbb4f5faa3a5ce&dl=7bb20338855997eb56" target="_blank">Скачать программу</a>-->
-        <a style="color:white;">Здесь скоро появится Программа стартап-школы</a>
+        <a style="color:white;">Здесь скоро появится Программа ИТ-школы</a>
         </div>
         <div class="col s2"></div>
     </div>
@@ -146,17 +147,16 @@
         <div class="">
           <div class="col s12 m4 line__red ln__1" style="height:580px;">
           <p class="contact_face">
-            Контактное лицо в Тольятти:<br>
-Попова Анжелика Миралиевна<br>
+          Контактное лицо в Уфе:<br>
+          Минасова Наталья Сергеевна - ormu@ugatu.su, 8(347)-273-06-67
 89272144599<br>
-Белорусская ул., 14, Тольятти, Самарская обл., 445020<br>
-Адрес проживание для иногородних, Тольятти, ул. Мира, д. 77 
+ул. Карла Маркса 12, корпус 7, УГАТУ.
           </p>
-          <img src="assets/img/TGU_round1.jpg" class="ln_img"></img>
+          <img src="assets/img/usatu_v_rus.jpg" class="ln_img"></img>
         </div>
         <div class="col s12 m8 line__red ln__2" style="height:580px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?l=map&ll=49.397908%2C53.500665&mode=search&sll=49.397908%2C53.500665&source=wizgeo&text=Россия%2C%20Самарская%20область%2C%20Тольятти%2C%20Белорусская%20улица%2C%2014&utm_medium=maps-desktop&utm_source=serp&z=16&amp;source=constructor" width="100%" height="560" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3Acf43badbff4a2f534162f7224816468db954ec5a4e5b0444b9d0ae7d81d77dc9&amp;source=constructor" width="100%" height="560" frameborder="0"></iframe>
           </div>
         </div>
         </div>
@@ -178,20 +178,6 @@
     </div>
       <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Артем Крицын</h4>
-      <p class="paragraph">менеджер проектов АО "РВК"</p>
-    </div>
-      <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
-    <div class="team-member-description">
-      <h4 class="heading-4">Владислав Губин</h4>
-      <p class="paragraph">Владелец продукта в Admitad</p>
-    </div>
-      <img src="assets/img/13094394_10209148080608923_1322764487236222237_n.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
     </div>
 </div>
 </div>
@@ -206,20 +192,20 @@
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Сергеев Никита</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
+      <h4 class="heading-4 ">Алина Послова</h4>
+      <p class="paragraph ">Менеджер проектов <br>АНО "АИР"</p>
     </div>
-      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/rjDGfEFswBs.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4 ">Попова Анжелика Миралиевна</h4>
-      <p class="paragraph ">Контактное лицо в Тольятти <br>
-      <i class="fab fa-whatsapp"></i>89272144599 <br>ru@tltsu.ru</p>
+      <h4 class="heading-4 ">Минасова Наталья Сергеевна</h4>
+      <p class="paragraph ">Контактное лицо в Уфе <br>
+      <i class="fab fa-whatsapp"></i>8(347)-273-06-67 <br>ormu@ugatu.su</p>
     </div>
-      <img src="assets/img/Foto_Popova_A_M.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/usatu_v_rus.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -235,15 +221,17 @@
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
-        <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;">
-        </a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://tltsu.ru/" class="oart"><img src="assets/img/TGU_round.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://moskva.mts.ru/personal">
+        <img src="assets/img/MTS_Logo_rus_r.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        </a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <a href="https://ugatu.su/">
+        <img src="assets/img/usatu_v_rus.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" >
+        </a>
     </div>
     </div>
 </div>
@@ -261,7 +249,7 @@
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">26-28 апреля, 2019</h4>
+                      <h4 class="heading-4 white-no-border">24-26 апреля, 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>
