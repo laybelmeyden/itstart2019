@@ -22,7 +22,7 @@
 </section>
 <section>
   <div class="parallax-container para_solo_plo_2">
-      <div class="parallax"><img src="assets/img/Tolyatti.png"></div>
+      <div class="parallax"><img src="assets/img/Dizayn_bez_nazvania_1.jpg"></div>
     <div class="row">
       <h1 class="solo__h1 solo__h1_2">Окружная стартап-школа<br> «IT-START»</h1>
       <p class="solo__p">Приволжский федеральный округ <br>Уфа 24-26 апреля 2020<br></p>
@@ -85,7 +85,12 @@
       <div class="col s12">
       <p class="p_regions">
           <strong style="color:black;">Окружная IT-школа</strong>
-          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в Краснодаре. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри. В этом году финальная питч-сессия (11 апреля) пройдет в рамках Всероссийского Проекта «ДОБРОПОЕЗД-2020», направленный на улучшение условий жизнедеятельности и жизнеобеспечения людей с особенностями физического и интеллектуального развития.
+          - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в Уфе. На протяжении 3-х дней с 
+          участниками будут работать специалисты и эксперты IT-компаний, представители
+           инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. 
+           Помимо лекционной части предусматривается практическая работа с проектами участников. 
+           Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники 
+           представляют свои проработанные проекты на суд жюри. 
         </p>
       </div>
       <div class="col s3 center"></div>
@@ -148,8 +153,7 @@
           <div class="col s12 m4 line__red ln__1" style="height:580px;">
           <p class="contact_face">
           Контактное лицо в Уфе:<br>
-          Минасова Наталья Сергеевна - ormu@ugatu.su, 8(347)-273-06-67
-89272144599<br>
+          Минасова Наталья Сергеевна - ormu@ugatu.su, 8(347)-273-06-67<br>
 ул. Карла Маркса 12, корпус 7, УГАТУ.
           </p>
           <img src="assets/img/usatu_v_rus.jpg" class="ln_img"></img>
@@ -178,6 +182,20 @@
     </div>
       <img src="assets/img/sp1.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Андрей Поскряков</h4>
+      <p class="paragraph">Специалист по клиентоориентированности</p>
+    </div>
+      <img src="assets/img/sp2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
+     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Матвей Бебенин</h4>
+      <p class="paragraph">Product Manager в Medpoint24</p>
+    </div>
+      <img src="assets/img/sp3.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
 </div>
 </div>
@@ -195,7 +213,8 @@
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4 ">Алина Послова</h4>
-      <p class="paragraph ">Менеджер проектов <br>АНО "АИР"</p>
+      <p class="paragraph ">Менеджер проектов <br>АНО "АИР"<br>
+      <i class="fab fa-whatsapp"></i>8 (999) 852 65 25 <br>info@rusinnovations.com</p>
     </div>
       <img src="assets/img/rjDGfEFswBs.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
@@ -205,7 +224,7 @@
       <p class="paragraph ">Контактное лицо в Уфе <br>
       <i class="fab fa-whatsapp"></i>8(347)-273-06-67 <br>ormu@ugatu.su</p>
     </div>
-      <img src="assets/img/usatu_v_rus.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/IMG_3117.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
