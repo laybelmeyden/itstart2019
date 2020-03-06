@@ -364,6 +364,13 @@
     </div>
       <img src="assets/img/krit.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div class="team-member-description">
+      <h4 class="heading-4">Ирина Андреева</h4>
+      <p class="paragraph">Бизнес-коуч, консультант по развитию бизнеса и команд, трекер MTS Startup Hub</p>
+    </div>
+      <img src="assets/img/aEwc6ECu57E.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+    </div>
     </div>
 </div>
 </div>
@@ -472,6 +479,9 @@
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://minsvyazcc.ru/" class="oart"><img src="assets/img/Ig7b7ABMrEY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://kubaninvest.ru/" class="oart"><img src="assets/img/Logo_DIRP.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>

@@ -107,12 +107,12 @@
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
         <a style="color:white;">Здесь скоро появится регистрация ИТ-школы</a>
       </div>
-        <!-- <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/926464/">Регистрация с проживанием</a>
+        <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/1276113/">Регистрация для участников из Уфы</a>
         </div>
         <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/926460/">Регистрация без проживания</a>
-        </div> -->
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/1276093/">Регистрация для иногородних участников</a>
+        </div>
     </div>
   </div>
 </section>

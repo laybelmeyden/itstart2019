@@ -268,10 +268,10 @@ sin@kubsu.ru<br>
       <a href="https://www.kubsu.ru/" class="oart"><img src="assets/img/u6JnDg7sDnY.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://inter-soft.ru/" class="oart"><img src="assets/img/intersoft_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+      <a href="https://vk.com/krddevdays" class="oart"><img src="assets/img/kdd-2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="https://vk.com/krddevdays" class="oart"><img src="assets/img/kdd-2.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+      <a href="http://kubaninvest.ru/" class="oart"><img src="assets/img/Logo_DIRP.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" ></a>
     </div>
     </div>
 </div>
