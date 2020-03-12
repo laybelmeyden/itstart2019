@@ -100,6 +100,7 @@
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
+        <a style="color:white;">Регистрация скоро откроется</a>
       </div>
         <!-- <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/962001/">Регистрация с проживанием</a>
@@ -107,7 +108,6 @@
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/961999/">Регистрация без проживания</a>
         </div> -->
-        <a style="color:white;">Регистрация скоро откроется</a>
     </div>
   </div>
 </section>
