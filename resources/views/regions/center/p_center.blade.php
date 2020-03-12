@@ -164,7 +164,7 @@ kutuzov@rrcd.ru<br>
     </div>
   </div>
 </section> -->
-<section id="speakers">
+<!-- <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
@@ -197,8 +197,8 @@ kutuzov@rrcd.ru<br>
 </div>
 </div>
 </div>
-</section>
-<section id="speakers">
+</section> -->
+<!-- <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
@@ -224,8 +224,8 @@ kutuzov@rrcd.ru<br>
 </div>
 </div>
 </div>
-</section>
-<section class="partners">
+</section> -->
+<!-- <section class="partners">
 <div class="content-section">
 <div class="content-wrapper w-container">
 <div class="header-centered">
@@ -254,7 +254,7 @@ kutuzov@rrcd.ru<br>
 </div>
 </div>
 </div>  
-</section>
+</section> -->
 </div>
 <section class="footer">
     <div data-ix="move-up-on-scroll" class="cta-bottom">
