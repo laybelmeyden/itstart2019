@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Ryazan.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Центральный федеральный округ <br>Рязань 29-31 мая 2019<br></p>
+      <p class="solo__p">Центральный федеральный округ <br>Рязань 22-24 мая 2020<br></p>
      </div>
     </div>
 </section>
@@ -101,12 +101,13 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-        <div class="col s12 m6">
+        <!-- <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/962001/">Регистрация с проживанием</a>
         </div>
         <div class="col s12 m6">
           <a class="link-button" href="https://rusinnovations.timepad.ru/event/961999/">Регистрация без проживания</a>
-        </div>
+        </div> -->
+        <a style="color:white;">Регистрация скоро откроется</a>
     </div>
   </div>
 </section>
@@ -117,14 +118,15 @@
         <h1 class="registr_solo">ПРОГРАММА</h1>
       </div>
       <div class="col s2"></div>
-        <div class="col s12 m8 center">
+        <!-- <div class="col s12 m8 center">
           <a class="link-button" href="https://vk.com/doc22052708_504838833?hash=cf991014d1166803e5&dl=eb6d252a84f4a2749c" target="_blank">Скачать программу</a>
-        </div>
+        </div> -->
+        <a style="color:white;">Здесь скоро появится Программа ИТ-школы</a>
         <div class="col s2"></div>
     </div>
   </div>
 </section>
-<section id="register_22">
+<!-- <section id="register_22">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -135,8 +137,8 @@
         </div>
     </div>
   </div>
-</section>
-<section id="mesto">
+</section> -->
+<!-- <section id="mesto">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -161,7 +163,7 @@ kutuzov@rrcd.ru<br>
         </div>
     </div>
   </div>
-</section>
+</section> -->
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
@@ -264,7 +266,7 @@ kutuzov@rrcd.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border"> 29-31 мая, 2019</h4>
+                      <h4 class="heading-4 white-no-border"> 22-24 мая, 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

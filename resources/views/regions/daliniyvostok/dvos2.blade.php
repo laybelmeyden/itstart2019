@@ -22,10 +22,10 @@
 </section>
 <section>
   <div class="parallax-container para_solo_plo">
-      <div class="parallax"><img src="assets/img/Ulan-Ude.png"></div>
+      <div class="parallax"><img src="assets/img/Ryazan.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Дальневосточный федеральный округ <br>Улан-Удэ 26-28 апреля 2019<br></p>
+      <p class="solo__p">Центральный федеральный округ <br>Якутск 15-17 мая 2020<br></p>
      </div>
     </div>
 </section>
@@ -85,7 +85,7 @@
       <div class="col s12">
         <p class="p_regions">
                     <strong style="color:black;">Окружная стартап-школа</strong>
-                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Улан-Удэ. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием IT-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
+                     - это 3-х-дневный форум для молодых изобретателей и программистов, который проводится в городе Якутск. На протяжении 3-х дней с участниками будут работать специалисты и эксперты IT-компаний, представители инновационной инфраструктуры и потенциальные инвесторы в StartUp проекты. Помимо лекционной части предусматривается практическая работа с проектами участников. Финальным мероприятием стартап-школы является презентационная сессия, в рамках которой участники представляют свои проработанные проекты на суд жюри.
                 </p>
       </div>
       <div class="col s3 center"></div>
@@ -101,12 +101,13 @@
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
       </div>
-        <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/923137/">Регистрация с проживанием</a>
+        <!-- <div class="col s12 m6">
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/962001/">Регистрация с проживанием</a>
         </div>
         <div class="col s12 m6">
-          <a class="link-button" href="https://rusinnovations.timepad.ru/event/923125/">Регистрация без проживания</a>
-        </div>
+          <a class="link-button" href="https://rusinnovations.timepad.ru/event/961999/">Регистрация без проживания</a>
+        </div> -->
+        <a style="color:white;">Регистрация скоро откроется</a>
     </div>
   </div>
 </section>
@@ -117,15 +118,15 @@
         <h1 class="registr_solo">ПРОГРАММА</h1>
       </div>
       <div class="col s2"></div>
-        <div class="col s12 m8 center">
-          <a class="link-button" href="https://vk.com/doc95748576_492910896?hash=4badcbb4f5faa3a5ce&dl=7bb20338855997eb56" target="_blank">Скачать программу</a>
-        <!--<a style="color:white;">Здесь скоро появится Программа стартап-школы</a>-->
-        </div>
+        <!-- <div class="col s12 m8 center">
+          <a class="link-button" href="https://vk.com/doc22052708_504838833?hash=cf991014d1166803e5&dl=eb6d252a84f4a2749c" target="_blank">Скачать программу</a>
+        </div> -->
+        <a style="color:white;">Здесь скоро появится Программа ИТ-школы</a>
         <div class="col s2"></div>
     </div>
   </div>
 </section>
-<section id="register_22">
+<!-- <section id="register_22">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -136,44 +137,33 @@
         </div>
     </div>
   </div>
-</section>
-<section id="mesto">
+</section> -->
+<!-- <section id="mesto">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">МЕСТО ПРОВЕДЕНИЯ</h1>
       </div>
         <div class="">
-          <div class="col s12 m4 line__red ln__1" style="height:500px;">
+          <div class="col s12 m4 line__red ln__1" style="height:460px;">
           <p class="contact_face">
-            Контактное лицо в Улан-Удэ:<br>
-Эрдыниев Жаргал Чингисович<br>
-zhargal.erdyniev@mail.ru<br>
-Республика Бурятия, город Улан - Удэ, улица Бабушкина 14а, здание Республиканского бизнес инкубатора.
+            Контактное лицо в Рязани:<br>
+Евгений Кутузов<br>
+kutuzov@rrcd.ru<br>
+г. Рязань, Ул. Ленина, 52 <br>
+Проживание для иногородних Россия, г. Рязань, Улица Колхозная 15 Отель Ловеч Спорт
           </p>
-          <img src="assets/img/mailrusigimg_ttb14Ril.jpg" class="ln_img"></img>
+          <img src="assets/img/logo_ano.png" class="ln_img"></img>
         </div>
-        <div class="col s12 m8 line__red ln__2" style="height:500px;">
+        <div class="col s12 m8 line__red ln__2" style="height:460px;">
           <div id="map">
-          <iframe src="https://yandex.ru/map-widget/v1/?ll=107.593952%2C51.813996&mode=search&oid=1056505246&ol=biz&sll=107.593952%2C51.813995&source=serp_navig&text=Республика%20Бурятия%2C%20город%20Улан%20-%20Удэ%2C%20улица%20Бабушкина%2014а%2C%20здание%20Республиканского%20бизнес%20инкубатора&z=16" width="100%" height="480" frameborder="0"></iframe>
+          <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A342f2d5aa35d80e7f4a0fd9af54e8a8d40608e992b73988a4680bfbab8d7f3d0&amp;source=constructor" width="100%" height="440" frameborder="0"></iframe>
           </div>
         </div>
         </div>
     </div>
   </div>
-</section>
-<section id="invate__speacers">
-  <div class="container">
-    <div class="row">
-      <div class="col s12 center">
-        <h1 class="registr_solo">ПРИГЛАШЕНИЕ ОТ СПИКЕРОВ</h1>
-      </div>
-        <div class="col s12 m12">
-        <iframe width="100%" height="550" src="https://www.youtube.com/embed/bDapCeyFYFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </div>
-  </div>
-</section>
+</section> -->
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
@@ -182,7 +172,7 @@ zhargal.erdyniev@mail.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-    <div data-ix="move-to-origin" class="team-member w-dyn-item">
+      <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
       <h4 class="heading-4">Станислав Сахаров</h4>
       <p class="paragraph">Руководитель программы <br> IT-Start</p>
@@ -216,20 +206,19 @@ zhargal.erdyniev@mail.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items center">
-     <div data-ix="move-to-origin" class="team-member w-dyn-item">
+    <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Владимир Шульгин</h4>
-      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>+7 915 275 69 69  <br> vs@rusinnovations.com</p>
+      <h4 class="heading-4">Сергеев Никита</h4>
+      <p class="paragraph ">Контактное лицо в Москве <br><i class="fab fa-whatsapp"></i>8 915 310 34 47  <br> sales@rusinnovations.com</p>
     </div>
-      <img src="assets/img/sp4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
+      <img src="assets/img/Nikita4.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item">
     <div class="team-member-description">
-      <h4 class="heading-4">Эрдыниев Жаргал Чингисович</h4>
-      <p class="paragraph ">Контактное лицо в Улан-Удэ <br><i class="fab fa-whatsapp"></i>8-999-48-49-011  <br> zhargal.erdyniev@mail.ru</p>
+      <h4 class="heading-4">Евгений Кутузов</h4>
+      <p class="paragraph ">Контактное лицо в Рязани <br><i class="fab fa-whatsapp"></i>+7 930 069 12 36  <br> kutuzov@rrcd.ru</p>
     </div>
-      <img src="assets/img/mailrusigimg_ttb14Ril.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
-    </div>
+      <img src="assets/img/Izobrazhenie_149.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="padding-bottom: 130px;">
     </div>
     </div>
 </div>
@@ -244,6 +233,15 @@ zhargal.erdyniev@mail.ru<br>
 </div>
 <div data-ix="move-up-on-scroll" class="w-dyn-list">
     <div class="flex-wrapper w-dyn-items">
+      <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://www.ryazangov.ru/" class="oart"><img src="assets/img/logo-header.gif" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="http://www.rrcd.ru/" class="oart"><img src="assets/img/RRCD_vertical_ru.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
+    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
+      <a href="https://dregion.ru/front" class="oart"><img src="assets/img/logo_ano.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
+    </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="https://xn--80afcdbalict6afooklqi5o.xn--p1ai/">
         <img src="assets/img/pgrants_logo.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;">
@@ -251,24 +249,6 @@ zhargal.erdyniev@mail.ru<br>
     </div>
     <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
       <a href="http://rusinnovations.com/" class="oart"><img src="assets/img/AIR.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="http://rbi03.com" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="" class="oart"><img src="assets/img/tpp.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="" class="oart"><img src="assets/img/rbi.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="" class="oart"><img src="assets/img/minprom.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="" class="oart"><img src="assets/img/mailrusigimg_ttb14Ril.jpg" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
-    </div>
-    <div data-ix="move-to-origin" class="team-member w-dyn-item align_item_part">
-      <a href="" class="oart"><img src="assets/img/logo_kvadrat.png" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 43vw, 28vw" style="height:90px;"></a>
     </div>
     </div>
 </div>
@@ -286,7 +266,7 @@ zhargal.erdyniev@mail.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border"> 26-28 апреля, 2019</h4>
+                      <h4 class="heading-4 white-no-border"> 15-17 мая, 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>
