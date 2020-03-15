@@ -185,7 +185,7 @@ IT-школа представляет собой три дня интенсив
     </div>
   </div>
 </section>
-<section id="invate__speacers">
+<!-- <section id="invate__speacers">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -196,7 +196,7 @@ IT-школа представляет собой три дня интенсив
         </div>
     </div>
   </div>
-</section>
+</section> -->
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">

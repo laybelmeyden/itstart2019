@@ -124,8 +124,8 @@
       </div>
       <div class="col s2"></div>
         <div class="col s12 m8 center">
-        <a href="#" style="color:white;">* Ожидайте</a>
-        <!--<a style="color:white;">Здесь скоро появится Программа стартап-школы</a>-->
+        <!-- <a href="#" style="color:white;">* Ожидайте</a> -->
+        <a class="link-button" href="https://vk.com/doc95748576_539514030?hash=72e427fb24e6e9fbd0&dl=282bc5e4825b9e4c8a">ПРОГРАММА</a>
         </div>
         <div class="col s2"></div>
     </div>
@@ -168,7 +168,7 @@ sin@kubsu.ru<br>
     </div>
   </div>
 </section>
-<section id="invate__speacers">
+<!-- <section id="invate__speacers">
   <div class="container">
     <div class="row">
       <div class="col s12 center">
@@ -179,7 +179,7 @@ sin@kubsu.ru<br>
         </div>
     </div>
   </div>
-</section>
+</section> -->
 <section id="speakers">
 <div class="content-section">
 <div class="content-wrapper w-container">
