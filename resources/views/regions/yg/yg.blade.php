@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Krasnodar.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная IT-школа социального предпринимательства<br> «IT-START»</h1>
-      <p class="solo__p">Южный федеральный округ <br>Краснодар 9-11 апреля 2020<br></p>
+      <p class="solo__p">Южный федеральный округ <br>Краснодар осень 2020<br></p>
      </div>
     </div>
 </section>
@@ -104,7 +104,7 @@
     <div class="row">
       <div class="col s12 center">
         <h1 class="registr_solo">РЕГИСТРАЦИЯ</h1>
-        <a href="#" style="color:white;">*открыта до 31.03, но может закрыться раньше указанной даты<br>
+        <a href="#" style="color:white;">*открыта, но может закрыться раньше указанной даты<br>
 количество мест ограничено</a>
       </div>
         <div class="col s12 m6">
@@ -289,7 +289,7 @@ sin@kubsu.ru<br>
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">9-11 апреля, 2020</h4>
+                      <h4 class="heading-4 white-no-border">осень 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

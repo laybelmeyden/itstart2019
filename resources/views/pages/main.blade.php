@@ -27,7 +27,7 @@
 <section id="header">
     <div class="down_paralax">
     <div class=" container center">
-    <img src="assets/img/Banner.png" class="banner_main">
+    <img src="assets/img/Dlya_sayta.png" class="banner_main">
   </div>
   <div class="down_paralax_part">
     <div class="container center">
@@ -266,14 +266,14 @@
     <li>
       <div class="collapsible-header center">Города проведения</div>
       <div class="collapsible-body">
-        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - 9 - 11 апреля</p></a>
-        <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Уфа - 24-26 апреля</p></a>
-        <a href="/center"><p>3.Центральный федеральный округ - г.Рязань - 22-24 мая</p></a>
-        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Калининград - 17-19 апреля</p></a>
+        <a href="/yg"><p>1.Южный федеральный округ - г.Краснодар - осень 2020</p></a>
+        <a href="/privoljsk"><p>2.Приволжский федеральный округ - г.Уфа - осень 2020</p></a>
+        <a href="/center"><p>3.Центральный федеральный округ - г.Рязань - осень 2020</p></a>
+        <a href="/severo-zapad"><p>4.Северо-Западный федеральный округ - г.Калининград - осень 2020</p></a>
         <!-- <a href="/uraliskiy"><p>5.Уральский федеральный округ - г.Челябинск - 17-19 мая</p></a> -->
         <!-- <a href="/sibirkiy"><p>6.Сибирский федеральный округ - г.Новосибирск - 12-14 апреля</p></a> -->
         <!-- <a href="/daliniyvostok1"><p>7.Дальневосточный федеральный округ - г.Благовещенск - 24-26 мая</p></a> -->
-        <a href="/daliniyvostok2"><p>5.Дальневосточный федеральный округ - г.Якутск - 15-17 мая</p></a>
+        <a href="/daliniyvostok2"><p>5.Дальневосточный федеральный округ - г.Якутск - осень 2020</p></a>
       </div>
     </li>
   </ul>
@@ -499,7 +499,7 @@
     </div>
     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
     <i class="far fa-calendar-alt marker_f"></i>
-    <h4 class="heading-4 white-no-border">с 9 апреля по 31 мая, 2020</h4>
+    <h4 class="heading-4 white-no-border">осень 2020</h4>
     </div>
     <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
     <i class="far fa-user marker_f"></i>

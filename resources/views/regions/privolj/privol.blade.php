@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Dizayn_bez_nazvania_1.jpg"></div>
     <div class="row">
       <h1 class="solo__h1 solo__h1_2">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Приволжский федеральный округ <br>Уфа 24-26 апреля 2020<br></p>
+      <p class="solo__p">Приволжский федеральный округ <br>Уфа осень 2020<br></p>
      </div>
     </div>
 </section>
@@ -273,7 +273,7 @@
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">24-26 апреля, 2020</h4>
+                      <h4 class="heading-4 white-no-border">осень 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>

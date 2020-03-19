@@ -25,7 +25,7 @@
       <div class="parallax"><img src="assets/img/Arkhangelsk.png"></div>
     <div class="row">
       <h1 class="solo__h1">Окружная стартап-школа<br> «IT-START»</h1>
-      <p class="solo__p">Северо-Западный федеральный округ <br>г. Калининград 17-19 апреля 2020<br></p>
+      <p class="solo__p">Северо-Западный федеральный округ <br>г. Калининград осень 2020<br></p>
      </div>
     </div>
 </section>
@@ -171,7 +171,7 @@ IT-школа представляет собой три дня интенсив
         <div class="">
           <div class="col s12 m4 line__red ln__1" style="height: 420px;">
           <p class="contact_face">
-          г. Калининград 17-19 апреля 2020 <br>
+          г. Калининград осень 2020 <br>
           ул. Александра Невского д. 14. Балтийский федеральный университет им. И.Канта.
           </p>
          <a href="https://www.kantiana.ru/"><img src="assets/img/124124.png" class="ln_img"></img></a>
@@ -289,7 +289,7 @@ IT-школа представляет собой три дня интенсив
                     </div>
                     <div data-ix="move-up-on-load-2" class="cta-bottom-flex-2">
                       <i class="far fa-calendar-alt marker_f"></i>
-                      <h4 class="heading-4 white-no-border">17-19 апреля 2020</h4>
+                      <h4 class="heading-4 white-no-border">осень 2020</h4>
                       </div>
                       <div data-ix="move-up-on-scroll-3" class="cta-bottom-flex-3 w-inline-block">
                         <i class="far fa-user marker_f"></i>
